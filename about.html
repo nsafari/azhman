@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="" />
+  <title></title>
+  <link rel="stylesheet" href="assets/css/base.css" />
+  <link rel="stylesheet" href="assets/css/layout.css" />
+  <link rel="stylesheet" href="assets/css/components.css" />
+  <link rel="stylesheet" href="assets/css/rtl.css" />
+  <link rel="alternate" hreflang="en" href="about.html?lang=en" />
+  <link rel="alternate" hreflang="ar" href="about.html?lang=ar" />
+  <link rel="alternate" hreflang="fa" href="about.html?lang=fa" />
+  <link rel="alternate" hreflang="x-default" href="about.html?lang=en" />
+  <script type="module" src="assets/js/app.js"></script>
+</head>
+<body data-page="about">
+  <a class="skip-link" href="#main-content" data-i18n="common.skipToContent"></a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" data-localized-link>
+        <span data-i18n="common.siteName"></span>
+      </a>
+      <nav class="main-nav" aria-label="Primary navigation">
+        <ul>
+          <li><a href="index.html" data-localized-link data-i18n="common.nav.home"></a></li>
+          <li><a href="about.html" data-localized-link data-i18n="common.nav.about"></a></li>
+          <li><a href="services.html" data-localized-link data-i18n="common.nav.services"></a></li>
+          <li><a href="contact.html" data-localized-link data-i18n="common.nav.contact"></a></li>
+        </ul>
+      </nav>
+      <div class="lang-switch lang-switch-desktop" role="group" aria-label="Language switcher">
+        <button type="button" data-lang-switch="en" data-i18n="common.language.short.en" data-i18n-aria-label="common.language.switchToEn"></button>
+        <button type="button" data-lang-switch="ar" data-i18n="common.language.short.ar" data-i18n-aria-label="common.language.switchToAr"></button>
+        <button type="button" data-lang-switch="fa" data-i18n="common.language.short.fa" data-i18n-aria-label="common.language.switchToFa"></button>
+      </div>
+    </div>
+    <div class="container lang-switch lang-switch-mobile" role="group" aria-label="Language switcher mobile">
+      <button type="button" data-lang-switch="en" data-i18n="common.language.en"></button>
+      <button type="button" data-lang-switch="ar" data-i18n="common.language.ar"></button>
+      <button type="button" data-lang-switch="fa" data-i18n="common.language.fa"></button>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="section">
+      <div class="container narrow">
+        <p class="eyebrow" data-i18n="about.hero.eyebrow"></p>
+        <h1 data-i18n="about.hero.title"></h1>
+        <p class="lead" data-i18n="about.hero.description"></p>
+      </div>
+    </section>
+
+    <section class="section muted">
+      <div class="container cards-grid">
+        <article class="card">
+          <h2 data-i18n="about.values.mission.title"></h2>
+          <p data-i18n="about.values.mission.description"></p>
+        </article>
+        <article class="card">
+          <h2 data-i18n="about.values.vision.title"></h2>
+          <p data-i18n="about.values.vision.description"></p>
+        </article>
+        <article class="card">
+          <h2 data-i18n="about.values.promise.title"></h2>
+          <p data-i18n="about.values.promise.description"></p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p data-i18n="common.footer.description"></p>
+      <p><span data-i18n="common.footer.rights"></span> <span id="current-year"></span></p>
+    </div>
+  </footer>
+</body>
+</html>
