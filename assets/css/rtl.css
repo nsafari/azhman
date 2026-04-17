@@ -1,0 +1,17 @@
+/* Keep this file for directional edge-cases after logical-property refactors. */
+
+:root[dir="rtl"] body {
+  font-family: "Vazirmatn", "Noto Sans Arabic", "Tahoma", "Segoe UI", Arial, sans-serif;
+}
+
+:root[dir="rtl"] .main-nav ul {
+  justify-content: flex-start;
+}
+
+:root[dir="rtl"] .hero-actions {
+  justify-content: flex-start;
+}
+
+:root[dir="rtl"] .contact-list strong {
+  margin-inline-end: 0.25rem;
+}

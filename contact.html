@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="" />
+  <title></title>
+  <link rel="stylesheet" href="assets/css/base.css" />
+  <link rel="stylesheet" href="assets/css/layout.css" />
+  <link rel="stylesheet" href="assets/css/components.css" />
+  <link rel="stylesheet" href="assets/css/rtl.css" />
+  <link rel="alternate" hreflang="en" href="contact.html?lang=en" />
+  <link rel="alternate" hreflang="ar" href="contact.html?lang=ar" />
+  <link rel="alternate" hreflang="fa" href="contact.html?lang=fa" />
+  <link rel="alternate" hreflang="x-default" href="contact.html?lang=en" />
+  <script type="module" src="assets/js/app.js"></script>
+</head>
+<body data-page="contact">
+  <a class="skip-link" href="#main-content" data-i18n="common.skipToContent"></a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" data-localized-link>
+        <span data-i18n="common.siteName"></span>
+      </a>
+      <nav class="main-nav" data-i18n-aria-label="common.a11y.primaryNavigation">
+        <ul>
+          <li><a href="index.html" data-localized-link data-i18n="common.nav.home"></a></li>
+          <li><a href="about.html" data-localized-link data-i18n="common.nav.about"></a></li>
+          <li><a href="services.html" data-localized-link data-i18n="common.nav.services"></a></li>
+          <li><a href="contact.html" data-localized-link data-i18n="common.nav.contact"></a></li>
+        </ul>
+      </nav>
+      <div class="lang-switch lang-switch-desktop" role="group" data-i18n-aria-label="common.a11y.languageSwitcher">
+        <button type="button" data-lang-switch="en" data-i18n="common.language.short.en" data-i18n-aria-label="common.language.switchToEn"></button>
+        <button type="button" data-lang-switch="ar" data-i18n="common.language.short.ar" data-i18n-aria-label="common.language.switchToAr"></button>
+        <button type="button" data-lang-switch="fa" data-i18n="common.language.short.fa" data-i18n-aria-label="common.language.switchToFa"></button>
+      </div>
+    </div>
+    <div class="container lang-switch lang-switch-mobile" role="group" data-i18n-aria-label="common.a11y.languageSwitcherMobile">
+      <button type="button" data-lang-switch="en" data-i18n="common.language.en"></button>
+      <button type="button" data-lang-switch="ar" data-i18n="common.language.ar"></button>
+      <button type="button" data-lang-switch="fa" data-i18n="common.language.fa"></button>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="section">
+      <div class="container narrow">
+        <p class="eyebrow" data-i18n="contact.hero.eyebrow"></p>
+        <h1 data-i18n="contact.hero.title"></h1>
+        <p class="lead" data-i18n="contact.hero.description"></p>
+      </div>
+    </section>
+
+    <section class="section muted">
+      <div class="container two-col">
+        <article class="card">
+          <h2 data-i18n="contact.details.title"></h2>
+          <p data-i18n="contact.details.description"></p>
+          <ul class="contact-list">
+            <li><strong data-i18n="contact.details.emailLabel"></strong> <a href="mailto:hello@example.com">hello@example.com</a></li>
+            <li><strong data-i18n="contact.details.phoneLabel"></strong> +971 555 0000</li>
+            <li><strong data-i18n="contact.details.locationLabel"></strong> <span data-i18n="contact.details.locationValue"></span></li>
+          </ul>
+        </article>
+
+        <form class="card contact-form" novalidate>
+          <h2 data-i18n="contact.form.title"></h2>
+
+          <label for="name" data-i18n="contact.form.nameLabel"></label>
+          <input id="name" name="name" type="text" data-i18n-placeholder="contact.form.namePlaceholder" />
+
+          <label for="email" data-i18n="contact.form.emailLabel"></label>
+          <input id="email" name="email" type="email" data-i18n-placeholder="contact.form.emailPlaceholder" />
+
+          <label for="message" data-i18n="contact.form.messageLabel"></label>
+          <textarea id="message" name="message" rows="5" data-i18n-placeholder="contact.form.messagePlaceholder"></textarea>
+
+          <button class="button button-primary" type="submit" data-i18n="contact.form.submit"></button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p data-i18n="common.footer.description"></p>
+      <p><span data-i18n="common.footer.rights"></span> <span id="current-year"></span></p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "pages": {
+      "home": {
+        "title": "Azhman | Home",
+        "description": "A multilingual website foundation built with pure HTML, CSS, and JavaScript."
+      },
+      "about": {
+        "title": "Azhman | About",
+        "description": "Learn about Azhman's mission, vision, and delivery approach."
+      },
+      "services": {
+        "title": "Azhman | Services",
+        "description": "Explore strategy, design, and delivery services from Azhman."
+      },
+      "contact": {
+        "title": "Azhman | Contact",
+        "description": "Reach out to Azhman for your next product and platform initiative."
+      }
+    }
+  },
+  "common": {
+    "siteName": "Azhman",
+    "skipToContent": "Skip to main content",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "language": {
+      "short": {
+        "en": "EN",
+        "ar": "AR",
+        "fa": "FA"
+      },
+      "en": "English",
+      "ar": "Arabic",
+      "fa": "Persian",
+      "switchToEn": "Switch language to English",
+      "switchToAr": "Switch language to Arabic",
+      "switchToFa": "Switch language to Persian"
+    },
+    "footer": {
+      "description": "A simple multilingual starter built without framework dependencies.",
+      "rights": "All rights reserved."
+    },
+    "a11y": {
+      "primaryNavigation": "Primary navigation",
+      "languageSwitcher": "Language switcher",
+      "languageSwitcherMobile": "Language switcher mobile"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Multilingual platform",
+      "title": "Build once. Speak to every audience.",
+      "description": "A modern web experience with one codebase and full support for English, Arabic, and Persian.",
+      "primaryCta": "View services",
+      "secondaryCta": "Contact us"
+    },
+    "highlight": {
+      "title": "Translation-friendly structure",
+      "description": "Use stable keys and locale files so content updates stay organized and scalable."
+    },
+    "features": {
+      "fast": {
+        "title": "Fast rollout",
+        "description": "Ship updates quickly by avoiding duplicated layouts per language."
+      },
+      "flexible": {
+        "title": "Flexible architecture",
+        "description": "Keep styles maintainable with logical properties and selective RTL overrides."
+      },
+      "support": {
+        "title": "Future ready",
+        "description": "Add pages and languages with a predictable, key-based content workflow."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Who we are",
+      "title": "A small team focused on clear digital experiences",
+      "description": "We align content, design, and engineering so multilingual products remain easy to evolve."
+    },
+    "values": {
+      "mission": {
+        "title": "Mission",
+        "description": "Deliver reliable websites with strong accessibility and language support from day one."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "Help organizations reach users across regions with consistent product quality."
+      },
+      "promise": {
+        "title": "Promise",
+        "description": "Ship practical solutions with clear structure and minimal technical overhead."
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "What we do",
+      "title": "Services for modern multilingual websites",
+      "description": "From planning to launch, we support every layer of your site rewrite."
+    },
+    "items": {
+      "strategy": {
+        "title": "Content strategy",
+        "description": "Create a translation key map, metadata rules, and editorial workflow."
+      },
+      "design": {
+        "title": "UI adaptation",
+        "description": "Refactor components for LTR and RTL readability without duplicating templates."
+      },
+      "delivery": {
+        "title": "Implementation",
+        "description": "Build robust i18n modules and integrate them across static pages and forms."
+      }
+    },
+    "cta": {
+      "title": "Ready to start your rewrite?",
+      "button": "Talk to our team"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get in touch",
+      "title": "Let's plan your multilingual rollout",
+      "description": "Share your goals and we will suggest a practical migration path."
+    },
+    "details": {
+      "title": "Contact details",
+      "description": "We usually respond within one business day.",
+      "emailLabel": "Email:",
+      "phoneLabel": "Phone:",
+      "locationLabel": "Location:",
+      "locationValue": "Dubai, UAE"
+    },
+    "form": {
+      "title": "Send a message",
+      "nameLabel": "Full name",
+      "namePlaceholder": "Enter your name",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "Enter your email",
+      "messageLabel": "Project details",
+      "messagePlaceholder": "Tell us about your website rewrite",
+      "submit": "Submit"
+    }
+  }
+}
