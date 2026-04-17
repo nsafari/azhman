@@ -44,6 +44,11 @@
     "footer": {
       "description": "یک قالب چندزبانه ساده بدون وابستگی به فریم ورک.",
       "rights": "تمام حقوق محفوظ است."
+    },
+    "a11y": {
+      "primaryNavigation": "پیمایش اصلی",
+      "languageSwitcher": "تغییر دهنده زبان",
+      "languageSwitcherMobile": "تغییر دهنده زبان موبایل"
     }
   },
   "home": {

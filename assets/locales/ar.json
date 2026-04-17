@@ -44,6 +44,11 @@
     "footer": {
       "description": "قالب متعدد اللغات بسيط بدون أي إطار عمل.",
       "rights": "جميع الحقوق محفوظة."
+    },
+    "a11y": {
+      "primaryNavigation": "التنقل الرئيسي",
+      "languageSwitcher": "مبدل اللغة",
+      "languageSwitcherMobile": "مبدل اللغة للجوال"
     }
   },
   "home": {

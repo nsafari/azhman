@@ -44,6 +44,11 @@
     "footer": {
       "description": "A simple multilingual starter built without framework dependencies.",
       "rights": "All rights reserved."
+    },
+    "a11y": {
+      "primaryNavigation": "Primary navigation",
+      "languageSwitcher": "Language switcher",
+      "languageSwitcherMobile": "Language switcher mobile"
     }
   },
   "home": {
