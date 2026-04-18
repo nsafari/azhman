@@ -1,0 +1,11 @@
+# Node dependencies and build artifacts
+node_modules/
+*.log
+
+# Crawler generated outputs
+tools/site-crawler/output/
+tools/site-crawler/dist/
+
+# Local environment files
+.env
+.env.*

@@ -1,0 +1,25 @@
+{
+  "name": "site-crawler",
+  "version": "1.0.0",
+  "description": "TypeScript crawler for extracting site content and links for localization.",
+  "main": "dist/crawler.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "crawl": "tsx src/crawler.ts",
+    "crawl:azhman": "tsx src/crawler.ts --startUrl=https://azhman.company/ --outputDir=./output --maxPages=250 --delayMs=250 --concurrency=4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.15.0",
+    "cheerio": "^1.2.0",
+    "p-limit": "^7.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  },
+  "type": "module"
+}
