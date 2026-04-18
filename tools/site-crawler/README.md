@@ -21,6 +21,12 @@ Inside the output directory (default `./output`):
   - raw downloaded HTML snapshots
 - `pages/markdown/*.md`
   - human-readable markdown snapshots of extracted content
+- `assets-mirror/**`
+  - downloaded stylesheet files and CSS-dependent assets (fonts/images)
+- `assets-manifest.json`
+  - downloaded asset records with status and local paths
+- `stylesheet-map.json`
+  - map of original stylesheet URL => mirrored local file path
 
 ## Install
 
@@ -45,6 +51,11 @@ npm run crawl -- \
   --concurrency=4 \
   --delayMs=250 \
   --timeoutMs=20000 \
+  --retryCount=3 \
+  --retryBackoffMs=700 \
+  --seedSitemap=true \
+  --downloadReferencedAssets=true \
+  --assetConcurrency=8 \
   --includeSubdomains=false
 ```
 
@@ -56,11 +67,18 @@ npm run crawl -- \
 - `--concurrency` (default: `4`)
 - `--delayMs` (default: `250`)
 - `--timeoutMs` (default: `20000`)
+- `--retryCount` (default: `3`)
+- `--retryBackoffMs` (default: `700`)
+- `--seedSitemap` (default: `true`)
+- `--downloadReferencedAssets` (default: `true`)
+- `--assetConcurrency` (default: `8`)
 - `--includeSubdomains` (default: `false`)
 
 ## Notes
 
 - This crawler follows internal links recursively and normalizes URLs.
-- It removes URL hash fragments and strips `utm_*` query params for deduplication.
-- It stores failed requests in `manifest.json > brokenLinks`.
+- It removes URL hash fragments and strips `utm_*` query params for page deduplication.
+- It stores failed page fetches in `manifest.json > brokenLinks`.
+- When asset mirroring is enabled, it downloads discovered stylesheet URLs and recursively fetches CSS `@import` and `url(...)` dependencies.
+- Asset mirroring currently focuses on CSS and assets referenced from CSS (fonts/images) to reproduce website styling.
 - Respect website terms and robots policies before using at higher scale.

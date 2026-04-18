@@ -16,6 +16,8 @@ interface CrawlOptions {
   retryCount: number;
   retryBackoffMs: number;
   seedSitemap: boolean;
+  downloadReferencedAssets: boolean;
+  assetConcurrency: number;
 }
 
 interface LinkInfo {
@@ -54,10 +56,32 @@ interface CrawlManifest {
   options: CrawlOptions;
   pages: Array<Pick<PageRecord, "id" | "url" | "path" | "title" | "lang" | "savedHtmlPath" | "savedMarkdownPath">>;
   brokenLinks: Array<{ from: string; to: string; reason: string }>;
+  assetDownload?: AssetDownloadSummary;
 }
 
-interface SitemapUrlEntry {
-  loc: string;
+interface CssReference {
+  url: string;
+  kind: "import" | "asset";
+}
+
+interface DownloadedAssetRecord {
+  url: string;
+  localPath: string;
+  kind: "css" | "asset";
+  status: "downloaded" | "failed";
+  contentType: string;
+  reason?: string;
+}
+
+interface AssetDownloadSummary {
+  enabled: boolean;
+  cssDiscovered: number;
+  cssDownloaded: number;
+  assetDiscovered: number;
+  assetDownloaded: number;
+  failed: number;
+  assetsManifestPath: string;
+  stylesheetMapPath: string;
 }
 
 function parseArgs(argv: string[]): CrawlOptions {
@@ -72,6 +96,8 @@ function parseArgs(argv: string[]): CrawlOptions {
     retryCount: 3,
     retryBackoffMs: 700,
     seedSitemap: true,
+    downloadReferencedAssets: true,
+    assetConcurrency: 8,
   };
 
   const values: Record<string, string> = {};
@@ -95,6 +121,8 @@ function parseArgs(argv: string[]): CrawlOptions {
     retryCount: Number(values.retryCount ?? defaults.retryCount),
     retryBackoffMs: Number(values.retryBackoffMs ?? defaults.retryBackoffMs),
     seedSitemap: (values.seedSitemap ?? String(defaults.seedSitemap)) === "true",
+    downloadReferencedAssets: (values.downloadReferencedAssets ?? String(defaults.downloadReferencedAssets)) === "true",
+    assetConcurrency: Number(values.assetConcurrency ?? defaults.assetConcurrency),
   };
 }
 
@@ -106,7 +134,7 @@ function ensureHttpUrl(rawUrl: string): URL {
   return url;
 }
 
-function normalizeUrl(rawUrl: string): string {
+function normalizePageUrl(rawUrl: string): string {
   const url = new URL(rawUrl);
   url.hash = "";
   if (!url.pathname) {
@@ -125,6 +153,12 @@ function normalizeUrl(rawUrl: string): string {
     url.pathname = url.pathname.slice(0, -1);
   }
 
+  return url.toString();
+}
+
+function normalizeAssetUrl(rawUrl: string): string {
+  const url = new URL(rawUrl);
+  url.hash = "";
   return url.toString();
 }
 
@@ -188,6 +222,103 @@ function cleanText(input: string): string {
   return input.replace(/\s+/g, " ").trim();
 }
 
+function sanitizeSegment(segment: string): string {
+  const cleaned = segment.replace(/[^a-zA-Z0-9._-]/g, "_");
+  return cleaned.length > 0 ? cleaned : "x";
+}
+
+function skipResourceReference(rawRef: string): boolean {
+  const ref = rawRef.trim().toLowerCase();
+  if (!ref) {
+    return true;
+  }
+
+  return (
+    ref.startsWith("data:") ||
+    ref.startsWith("blob:") ||
+    ref.startsWith("javascript:") ||
+    ref.startsWith("about:")
+  );
+}
+
+function extensionFromContentType(contentType: string): string | undefined {
+  const normalized = contentType.split(";")[0].trim().toLowerCase();
+  const map: Record<string, string> = {
+    "text/css": ".css",
+    "text/plain": ".txt",
+    "image/png": ".png",
+    "image/jpeg": ".jpg",
+    "image/jpg": ".jpg",
+    "image/webp": ".webp",
+    "image/gif": ".gif",
+    "image/svg+xml": ".svg",
+    "image/x-icon": ".ico",
+    "font/woff": ".woff",
+    "font/woff2": ".woff2",
+    "font/ttf": ".ttf",
+    "font/otf": ".otf",
+    "application/font-woff": ".woff",
+    "application/font-woff2": ".woff2",
+    "application/octet-stream": "",
+  };
+
+  return map[normalized];
+}
+
+function looksLikeCssUrl(rawUrl: string): boolean {
+  const pathname = new URL(rawUrl).pathname.toLowerCase();
+  return pathname.endsWith(".css") || pathname.includes(".css?");
+}
+
+function mirroredRelativePathFromUrl(rawUrl: string, fallbackExtension?: string): string {
+  const url = new URL(rawUrl);
+  const host = sanitizeSegment(url.hostname);
+
+  const segments = url.pathname
+    .split("/")
+    .filter(Boolean)
+    .map((segment) => sanitizeSegment(segment));
+
+  let filePath = segments.length > 0 ? path.join(...segments) : "index";
+
+  if (url.pathname.endsWith("/")) {
+    filePath = path.join(filePath, "index");
+  }
+
+  if (!path.extname(filePath) && fallbackExtension) {
+    filePath = `${filePath}${fallbackExtension}`;
+  }
+
+  if (url.search) {
+    const queryHash = createHash("sha1").update(url.search).digest("hex").slice(0, 8);
+    const ext = path.extname(filePath);
+    const withoutExt = ext ? filePath.slice(0, -ext.length) : filePath;
+    filePath = `${withoutExt}__q_${queryHash}${ext}`;
+  }
+
+  return path.join("assets-mirror", host, filePath);
+}
+
+function extractCssReferences(cssText: string): CssReference[] {
+  const refs: CssReference[] = [];
+
+  const importRegex = /@import\s+(?:url\()?\s*["']?([^"')\s]+)["']?\s*\)?/gi;
+  let importMatch: RegExpExecArray | null = importRegex.exec(cssText);
+  while (importMatch) {
+    refs.push({ url: importMatch[1], kind: "import" });
+    importMatch = importRegex.exec(cssText);
+  }
+
+  const urlRegex = /url\(\s*(["']?)([^"')]+)\1\s*\)/gi;
+  let urlMatch: RegExpExecArray | null = urlRegex.exec(cssText);
+  while (urlMatch) {
+    refs.push({ url: urlMatch[2], kind: "asset" });
+    urlMatch = urlRegex.exec(cssText);
+  }
+
+  return refs;
+}
+
 async function delay(ms: number): Promise<void> {
   if (ms <= 0) {
     return;
@@ -195,9 +326,10 @@ async function delay(ms: number): Promise<void> {
   await new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function getWithRetry(
+async function getTextWithRetry(
   url: string,
   options: CrawlOptions,
+  acceptHeader = "text/html,application/xhtml+xml,application/xml,text/xml,text/css,*/*;q=0.1",
 ): Promise<{ status: number; headers: Record<string, unknown>; data: string }> {
   let lastError: unknown = null;
   const attempts = Math.max(1, options.retryCount + 1);
@@ -210,15 +342,60 @@ async function getWithRetry(
         responseType: "text",
         validateStatus: () => true,
         headers: {
-          "User-Agent": "AzhmanLocalizationCrawler/1.0 (+https://azhman.company)",
-          Accept: "text/html,application/xhtml+xml,application/xml,text/xml",
+          "User-Agent": "AzhmanLocalizationCrawler/1.1 (+https://azhman.company)",
+          Accept: acceptHeader,
         },
       });
+
+      if (response.status >= 500 && attempt < attempts - 1) {
+        throw new Error(`HTTP ${response.status}`);
+      }
 
       return {
         status: response.status,
         headers: response.headers as Record<string, unknown>,
         data: response.data,
+      };
+    } catch (error) {
+      lastError = error;
+      if (attempt < attempts - 1) {
+        const wait = options.retryBackoffMs * Math.pow(2, attempt);
+        await delay(wait);
+      }
+    }
+  }
+
+  throw lastError instanceof Error ? lastError : new Error("Request failed");
+}
+
+async function getBinaryWithRetry(
+  url: string,
+  options: CrawlOptions,
+): Promise<{ status: number; headers: Record<string, unknown>; data: Buffer }> {
+  let lastError: unknown = null;
+  const attempts = Math.max(1, options.retryCount + 1);
+
+  for (let attempt = 0; attempt < attempts; attempt += 1) {
+    try {
+      const response = await axios.get<ArrayBuffer>(url, {
+        timeout: options.timeoutMs,
+        maxRedirects: 5,
+        responseType: "arraybuffer",
+        validateStatus: () => true,
+        headers: {
+          "User-Agent": "AzhmanLocalizationCrawler/1.1 (+https://azhman.company)",
+          Accept: "*/*",
+        },
+      });
+
+      if (response.status >= 500 && attempt < attempts - 1) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      return {
+        status: response.status,
+        headers: response.headers as Record<string, unknown>,
+        data: Buffer.from(response.data),
       };
     } catch (error) {
       lastError = error;
@@ -250,18 +427,17 @@ async function fetchSitemapSeedUrls(start: URL, options: CrawlOptions): Promise<
 
   for (const sitemapUrl of sitemapCandidates) {
     try {
-      const response = await getWithRetry(sitemapUrl, options);
+      const response = await getTextWithRetry(sitemapUrl, options, "application/xml,text/xml,*/*;q=0.1");
       if (response.status >= 400) {
         continue;
       }
 
-      const xml = response.data;
-      const urls = extractSitemapUrls(xml);
+      const urls = extractSitemapUrls(response.data);
       for (const candidate of urls) {
         try {
           const absolute = new URL(candidate, start);
           if (shouldVisit(absolute, start, options.includeSubdomains)) {
-            found.add(normalizeUrl(absolute.toString()));
+            found.add(normalizePageUrl(absolute.toString()));
           }
         } catch (_error) {
           // Ignore malformed sitemap entries.
@@ -275,15 +451,19 @@ async function fetchSitemapSeedUrls(start: URL, options: CrawlOptions): Promise<
   return [...found];
 }
 
-async function ensureDirs(base: string): Promise<{ pagesDir: string; htmlDir: string; markdownDir: string }> {
+async function ensureDirs(
+  base: string,
+): Promise<{ pagesDir: string; htmlDir: string; markdownDir: string; mirroredAssetsDir: string }> {
   const pagesDir = path.join(base, "pages");
   const htmlDir = path.join(pagesDir, "html");
   const markdownDir = path.join(pagesDir, "markdown");
+  const mirroredAssetsDir = path.join(base, "assets-mirror");
 
   await fs.mkdir(htmlDir, { recursive: true });
   await fs.mkdir(markdownDir, { recursive: true });
+  await fs.mkdir(mirroredAssetsDir, { recursive: true });
 
-  return { pagesDir, htmlDir, markdownDir };
+  return { pagesDir, htmlDir, markdownDir, mirroredAssetsDir };
 }
 
 function getAttrValues($: cheerio.CheerioAPI, selector: string, attribute: string): string[] {
@@ -320,9 +500,207 @@ function extractMainText($: cheerio.CheerioAPI): string {
   return "";
 }
 
+function resolveResourceUrl(rawUrl: string, baseUrl: string): string | null {
+  if (skipResourceReference(rawUrl)) {
+    return null;
+  }
+
+  try {
+    const absolute = new URL(rawUrl, baseUrl);
+    if (absolute.protocol !== "http:" && absolute.protocol !== "https:") {
+      return null;
+    }
+    return normalizeAssetUrl(absolute.toString());
+  } catch (_error) {
+    return null;
+  }
+}
+
+async function saveMirroredTextAsset(url: string, text: string, outputDir: string): Promise<string> {
+  const relativePath = mirroredRelativePathFromUrl(url, ".css");
+  const absolutePath = path.join(outputDir, relativePath);
+  await fs.mkdir(path.dirname(absolutePath), { recursive: true });
+  await fs.writeFile(absolutePath, text, "utf8");
+  return relativePath;
+}
+
+async function saveMirroredBinaryAsset(
+  url: string,
+  buffer: Buffer,
+  contentType: string,
+  outputDir: string,
+): Promise<string> {
+  const extension = extensionFromContentType(contentType);
+  const relativePath = mirroredRelativePathFromUrl(url, extension);
+  const absolutePath = path.join(outputDir, relativePath);
+  await fs.mkdir(path.dirname(absolutePath), { recursive: true });
+  await fs.writeFile(absolutePath, buffer);
+  return relativePath;
+}
+
+async function downloadReferencedAssets(
+  pages: PageRecord[],
+  options: CrawlOptions,
+): Promise<AssetDownloadSummary> {
+  const cssQueue: string[] = [];
+  const cssSeen = new Set<string>();
+  const discoveredCss = new Set<string>();
+  const discoveredAssets = new Set<string>();
+  const records: DownloadedAssetRecord[] = [];
+  const stylesheetMap = new Map<string, string>();
+
+  for (const page of pages) {
+    for (const stylesheetHref of page.assets.stylesheets) {
+      const absolute = resolveResourceUrl(stylesheetHref, page.url);
+      if (!absolute) {
+        continue;
+      }
+
+      if (!discoveredCss.has(absolute)) {
+        discoveredCss.add(absolute);
+        cssQueue.push(absolute);
+      }
+    }
+  }
+
+  while (cssQueue.length > 0) {
+    const cssUrl = cssQueue.shift();
+    if (!cssUrl || cssSeen.has(cssUrl)) {
+      continue;
+    }
+
+    cssSeen.add(cssUrl);
+
+    try {
+      const response = await getTextWithRetry(cssUrl, options, "text/css,*/*;q=0.1");
+      const contentType = String(response.headers["content-type"] ?? "");
+
+      if (response.status >= 400) {
+        records.push({
+          url: cssUrl,
+          localPath: "",
+          kind: "css",
+          status: "failed",
+          contentType,
+          reason: `HTTP ${response.status}`,
+        });
+        continue;
+      }
+
+      const localPath = await saveMirroredTextAsset(cssUrl, response.data, options.outputDir);
+      stylesheetMap.set(cssUrl, localPath);
+      records.push({
+        url: cssUrl,
+        localPath,
+        kind: "css",
+        status: "downloaded",
+        contentType,
+      });
+
+      const references = extractCssReferences(response.data);
+      for (const ref of references) {
+        const absolute = resolveResourceUrl(ref.url, cssUrl);
+        if (!absolute) {
+          continue;
+        }
+
+        if (ref.kind === "import" || looksLikeCssUrl(absolute)) {
+          if (!discoveredCss.has(absolute)) {
+            discoveredCss.add(absolute);
+            cssQueue.push(absolute);
+          }
+          continue;
+        }
+
+        discoveredAssets.add(absolute);
+      }
+    } catch (error) {
+      records.push({
+        url: cssUrl,
+        localPath: "",
+        kind: "css",
+        status: "failed",
+        contentType: "",
+        reason: error instanceof Error ? error.message : "unknown error",
+      });
+    }
+  }
+
+  const assetLimiter = pLimit(Math.max(1, options.assetConcurrency));
+  await Promise.all(
+    [...discoveredAssets].map((assetUrl) =>
+      assetLimiter(async () => {
+        try {
+          const response = await getBinaryWithRetry(assetUrl, options);
+          const contentType = String(response.headers["content-type"] ?? "");
+
+          if (response.status >= 400) {
+            records.push({
+              url: assetUrl,
+              localPath: "",
+              kind: "asset",
+              status: "failed",
+              contentType,
+              reason: `HTTP ${response.status}`,
+            });
+            return;
+          }
+
+          const localPath = await saveMirroredBinaryAsset(assetUrl, response.data, contentType, options.outputDir);
+          records.push({
+            url: assetUrl,
+            localPath,
+            kind: "asset",
+            status: "downloaded",
+            contentType,
+          });
+        } catch (error) {
+          records.push({
+            url: assetUrl,
+            localPath: "",
+            kind: "asset",
+            status: "failed",
+            contentType: "",
+            reason: error instanceof Error ? error.message : "unknown error",
+          });
+        }
+      }),
+    ),
+  );
+
+  const assetsManifestPath = "assets-manifest.json";
+  const stylesheetMapPath = "stylesheet-map.json";
+
+  await writeJson(path.join(options.outputDir, assetsManifestPath), {
+    generatedAt: new Date().toISOString(),
+    total: records.length,
+    items: records,
+  });
+
+  await writeJson(
+    path.join(options.outputDir, stylesheetMapPath),
+    Object.fromEntries([...stylesheetMap.entries()].sort(([a], [b]) => a.localeCompare(b))),
+  );
+
+  const cssDownloaded = records.filter((item) => item.kind === "css" && item.status === "downloaded").length;
+  const assetDownloaded = records.filter((item) => item.kind === "asset" && item.status === "downloaded").length;
+  const failed = records.filter((item) => item.status === "failed").length;
+
+  return {
+    enabled: true,
+    cssDiscovered: discoveredCss.size,
+    cssDownloaded,
+    assetDiscovered: discoveredAssets.size,
+    assetDownloaded,
+    failed,
+    assetsManifestPath,
+    stylesheetMapPath,
+  };
+}
+
 async function crawl(options: CrawlOptions): Promise<void> {
   const start = ensureHttpUrl(options.startUrl);
-  const normalizedStart = normalizeUrl(start.toString());
+  const normalizedStart = normalizePageUrl(start.toString());
   const { htmlDir, markdownDir } = await ensureDirs(options.outputDir);
 
   const visited = new Set<string>();
@@ -352,7 +730,7 @@ async function crawl(options: CrawlOptions): Promise<void> {
     await delay(options.delayMs);
 
     try {
-      const response = await getWithRetry(url, options);
+      const response = await getTextWithRetry(url, options);
 
       const status = response.status;
       const contentType = String(response.headers["content-type"] ?? "");
@@ -377,7 +755,7 @@ async function crawl(options: CrawlOptions): Promise<void> {
 
         try {
           const absolute = new URL(href, url);
-          const normalized = normalizeUrl(absolute.toString());
+          const normalized = normalizePageUrl(absolute.toString());
           const isInternal = shouldVisit(absolute, start, options.includeSubdomains);
           const link: LinkInfo = {
             url: normalized,
@@ -449,7 +827,11 @@ async function crawl(options: CrawlOptions): Promise<void> {
 
   while (queue.length > 0 && pageRecords.length < options.maxPages) {
     const batch: string[] = [];
-    while (queue.length > 0 && batch.length < options.concurrency && pageRecords.length + batch.length < options.maxPages) {
+    while (
+      queue.length > 0 &&
+      batch.length < options.concurrency &&
+      pageRecords.length + batch.length < options.maxPages
+    ) {
       const next = queue.shift();
       if (!next || visited.has(next)) {
         continue;
@@ -466,6 +848,11 @@ async function crawl(options: CrawlOptions): Promise<void> {
 
   pageRecords.sort((a, b) => a.url.localeCompare(b.url));
 
+  let assetDownloadSummary: AssetDownloadSummary | undefined;
+  if (options.downloadReferencedAssets) {
+    assetDownloadSummary = await downloadReferencedAssets(pageRecords, options);
+  }
+
   const manifest: CrawlManifest = {
     startUrl: normalizedStart,
     crawledAt: new Date().toISOString(),
@@ -481,6 +868,7 @@ async function crawl(options: CrawlOptions): Promise<void> {
       savedMarkdownPath: page.savedMarkdownPath,
     })),
     brokenLinks,
+    assetDownload: assetDownloadSummary,
   };
 
   const linksGraph = pageRecords.map((page) => ({
@@ -503,6 +891,13 @@ async function crawl(options: CrawlOptions): Promise<void> {
   await writeJson(path.join(options.outputDir, "translation-seed.json"), translationSeed);
 
   console.log(`Crawl complete. Pages: ${pageRecords.length}. Output directory: ${path.resolve(options.outputDir)}`);
+  if (assetDownloadSummary) {
+    console.log(
+      `Downloaded CSS/assets: ${assetDownloadSummary.cssDownloaded}/${assetDownloadSummary.cssDiscovered} CSS, ` +
+        `${assetDownloadSummary.assetDownloaded}/${assetDownloadSummary.assetDiscovered} other assets, ` +
+        `${assetDownloadSummary.failed} failed.`,
+    );
+  }
 }
 
 async function main(): Promise<void> {
