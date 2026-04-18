@@ -75,7 +75,7 @@ function translate(keyPath) {
 
   const fallbackValue = resolveNestedValue(fallbackLocale, keyPath);
   if (fallbackValue !== undefined) {
-    console.warn(`[i18n] Missing key "${keyPath}" in ${activeLanguage}; using English fallback.`);
+    console.warn(`[i18n] Missing key "${keyPath}" in ${activeLanguage}; using default fallback locale.`);
     return fallbackValue;
   }
 
@@ -166,7 +166,7 @@ async function hydrateLocale(language) {
     const locale = await fetchLocale(normalized);
     return { language: normalized, locale };
   } catch (error) {
-    console.warn(`[i18n] Locale load failed for ${normalized}. Falling back to English.`);
+    console.warn(`[i18n] Locale load failed for ${normalized}. Falling back to default locale.`);
     const locale = await fetchLocale(DEFAULT_LANGUAGE);
     return { language: DEFAULT_LANGUAGE, locale };
   }
