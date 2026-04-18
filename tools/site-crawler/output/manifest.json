@@ -1,7 +1,7 @@
 {
   "startUrl": "https://azhman.company/",
-  "crawledAt": "2026-04-18T04:08:35.166Z",
-  "totalPages": 182,
+  "crawledAt": "2026-04-18T04:58:45.539Z",
+  "totalPages": 180,
   "options": {
     "startUrl": "https://azhman.company/",
     "outputDir": "./output",
@@ -12,7 +12,9 @@
     "includeSubdomains": false,
     "retryCount": 3,
     "retryBackoffMs": 700,
-    "seedSitemap": true
+    "seedSitemap": true,
+    "downloadReferencedAssets": true,
+    "assetConcurrency": 8
   },
   "pages": [
     {
@@ -880,15 +882,6 @@
       "savedMarkdownPath": "pages/markdown/implementation-of-electrification-and-lighting-systems__06fc1ad1.md"
     },
     {
-      "id": "implementation-of-heating-and-cooling-systems__dcdacdf0",
-      "url": "https://azhman.company/implementation-of-heating-and-cooling-systems",
-      "path": "/implementation-of-heating-and-cooling-systems",
-      "title": "اجرای سیستم‌های گرمایشی و سرمایشی (HVAC) — هلدینگ ساختمانی آژمان",
-      "lang": "fa-IR",
-      "savedHtmlPath": "pages/html/implementation-of-heating-and-cooling-systems__dcdacdf0.html",
-      "savedMarkdownPath": "pages/markdown/implementation-of-heating-and-cooling-systems__dcdacdf0.md"
-    },
-    {
       "id": "implementation-of-lsf-technology-light-steel-structures__5df4c1d5",
       "url": "https://azhman.company/implementation-of-lsf-technology-light-steel-structures",
       "path": "/implementation-of-lsf-technology-light-steel-structures",
@@ -977,15 +970,6 @@
       "lang": "fa-IR",
       "savedHtmlPath": "pages/html/installation-of-elevators-and-escalators__96ac27f2.html",
       "savedMarkdownPath": "pages/markdown/installation-of-elevators-and-escalators__96ac27f2.md"
-    },
-    {
-      "id": "installation-of-engine-room-and-ventilation-systems__8a202d38",
-      "url": "https://azhman.company/installation-of-engine-room-and-ventilation-systems",
-      "path": "/installation-of-engine-room-and-ventilation-systems",
-      "title": "نصب موتورخانه و سیستم‌های تهویه — هلدینگ ساختمانی آژمان",
-      "lang": "fa-IR",
-      "savedHtmlPath": "pages/html/installation-of-engine-room-and-ventilation-systems__8a202d38.html",
-      "savedMarkdownPath": "pages/markdown/installation-of-engine-room-and-ventilation-systems__8a202d38.md"
     },
     {
       "id": "interior-and-exterior-design-and-renovation__3823fb79",
@@ -1656,6 +1640,16 @@
   ],
   "brokenLinks": [
     {
+      "from": "https://azhman.company/implementation-of-heating-and-cooling-systems",
+      "to": "https://azhman.company/implementation-of-heating-and-cooling-systems",
+      "reason": "connect ECONNREFUSED 80.249.115.91:443"
+    },
+    {
+      "from": "https://azhman.company/installation-of-engine-room-and-ventilation-systems",
+      "to": "https://azhman.company/installation-of-engine-room-and-ventilation-systems",
+      "reason": "connect ECONNREFUSED 80.249.115.91:443"
+    },
+    {
       "from": "https://azhman.company/services/build-and-run",
       "to": "https://azhman.company/services/build-and-run",
       "reason": "HTTP 404"
@@ -1670,5 +1664,15 @@
       "to": "https://azhman.company/reconstruction-and-renovation/renovation-of-old-buildings",
       "reason": "HTTP 404"
     }
-  ]
+  ],
+  "assetDownload": {
+    "enabled": true,
+    "cssDiscovered": 58,
+    "cssDownloaded": 58,
+    "assetDiscovered": 333,
+    "assetDownloaded": 327,
+    "failed": 6,
+    "assetsManifestPath": "assets-manifest.json",
+    "stylesheetMapPath": "stylesheet-map.json"
+  }
 }
