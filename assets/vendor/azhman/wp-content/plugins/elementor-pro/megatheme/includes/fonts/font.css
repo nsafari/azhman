@@ -1,0 +1,1143 @@
+ /**
+*
+*	Name:			Anjoman Fonts
+*	Version:			2.0
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		April 4, 2020
+*	Updated on:		April 4, 2020
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت انجمن یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+Anjoman fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: R3YDFG 
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 100;
+	src: url('anjoman/Anjoman-Thin.eot');
+	src: url('anjoman/Anjoman-Thin.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Thin.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Thin.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 200;
+	src: url('anjoman/Anjoman-ExtraLight.eot');
+	src: url('anjoman/Anjoman-ExtraLight.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-ExtraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-ExtraLight.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 300;
+	src: url('anjoman/Anjoman-Light.eot');
+	src: url('anjoman/Anjoman-Light.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Light.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 500;
+	src: url('anjoman/Anjoman-Medium.eot');
+	src: url('anjoman/Anjoman-Medium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Medium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 600;
+	src: url('anjoman/Anjoman-SemiBold.eot');
+	src: url('anjoman/Anjoman-SemiBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-SemiBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-SemiBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 750;
+	src: url('anjoman/Anjoman-ExtraBold.eot');
+	src: url('anjoman/Anjoman-ExtraBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-ExtraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-ExtraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 800;
+	src: url('anjoman/Anjoman-UltraBold.eot');
+	src: url('anjoman/Anjoman-UltraBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-UltraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-UltraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 850;
+	src: url('anjoman/Anjoman-Black.eot');
+	src: url('anjoman/Anjoman-Black.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Black.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Black.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 900;
+	src: url('anjoman/Anjoman-Heavy.eot');
+	src: url('anjoman/Anjoman-Heavy.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Heavy.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Heavy.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: 1000;
+	src: url('anjoman/Anjoman-SuperHeavy.eot');
+	src: url('anjoman/Anjoman-SuperHeavy.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-SuperHeavy.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-SuperHeavy.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: bold;
+	src: url('anjoman/Anjoman-Bold.eot');
+	src: url('anjoman/Anjoman-Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: normal;
+	font-weight: normal;
+	src: url('anjoman/Anjoman-Regular.eot');
+	src: url('anjoman/Anjoman-Regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+/**
+Italic fonts	
+**/
+
+
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 100;
+	src: url('anjoman/Anjoman-ThinItalic.eot');
+	src: url('anjoman/Anjoman-ThinItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-ThinItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-ThinItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 200;
+	src: url('anjoman/Anjoman-ExtraLightItalic.eot');
+	src: url('anjoman/Anjoman-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-ExtraLightItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-ExtraLightItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 300;
+	src: url('anjoman/Anjoman-LightItalic.eot');
+	src: url('anjoman/Anjoman-LightItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-LightItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-LightItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 500;
+	src: url('anjoman/Anjoman-MediumItalic.eot');
+	src: url('anjoman/Anjoman-MediumItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-MediumItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-MediumItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 600;
+	src: url('anjoman/Anjoman-SemiBoldItalic.eot');
+	src: url('anjoman/Anjoman-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-SemiBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-SemiBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 750;
+	src: url('anjoman/Anjoman-ExtraBoldItalic.eot');
+	src: url('anjoman/Anjoman-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-ExtraBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-ExtraBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 800;
+	src: url('anjoman/Anjoman-UltraBoldItalic.eot');
+	src: url('anjoman/Anjoman-UltraBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-UltraBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-UltraBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 850;
+	src: url('anjoman/Anjoman-BlackItalic.eot');
+	src: url('anjoman/Anjoman-BlackItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-BlackItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-BlackItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 900;
+	src: url('anjoman/Anjoman-HeavyItalic.eot');
+	src: url('anjoman/Anjoman-HeavyItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-HeavyItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-HeavyItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: 1000;
+	src: url('anjoman/Anjoman-SuperHeavyItalic.eot');
+	src: url('anjoman/Anjoman-SuperHeavyItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-SuperHeavyItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-SuperHeavyItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: bold;
+	src: url('anjoman/Anjoman-BoldItalic.eot');
+	src: url('anjoman/Anjoman-BoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-BoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-BoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: italic;
+	font-weight: normal;
+	src: url('anjoman/Anjoman-Italic.eot');
+	src: url('anjoman/Anjoman-Italic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Italic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Italic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+/**
+Condensed fonts	
+**/
+
+
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 100;
+	src: url('anjoman/Anjoman-CondensedCondensedThin.eot');
+	src: url('anjoman/Anjoman-CondensedCondensedThin.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedCondensedThin.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedCondensedThin.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 200;
+	src: url('anjoman/Anjoman-CondensedExtraLight.eot');
+	src: url('anjoman/Anjoman-CondensedExtraLight.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedExtraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedExtraLight.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 300;
+	src: url('anjoman/Anjoman-CondensedLight.eot');
+	src: url('anjoman/Anjoman-CondensedLight.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedLight.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 500;
+	src: url('anjoman/Anjoman-CondensedMedium.eot');
+	src: url('anjoman/Anjoman-CondensedMedium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedMedium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedMedium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 600;
+	src: url('anjoman/Anjoman-CondensedSemiBold.eot');
+	src: url('anjoman/Anjoman-CondensedSemiBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedSemiBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedSemiBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 750;
+	src: url('anjoman/Anjoman-CondensedExtraBold.eot');
+	src: url('anjoman/Anjoman-CondensedExtraBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedExtraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedExtraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 800;
+	src: url('anjoman/Anjoman-CondensedUltraBold.eot');
+	src: url('anjoman/Anjoman-CondensedUltraBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedUltraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedUltraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 850;
+	src: url('anjoman/Anjoman-CondensedBlack.eot');
+	src: url('anjoman/Anjoman-CondensedBlack.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedBlack.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedBlack.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 900;
+	src: url('anjoman/Anjoman-CondensedHeavy.eot');
+	src: url('anjoman/Anjoman-CondensedHeavy.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedHeavy.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedHeavy.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: 1000;
+	src: url('anjoman/Anjoman-CondensedSuperHeavy.eot');
+	src: url('anjoman/Anjoman-CondensedSuperHeavy.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedSuperHeavy.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedSuperHeavy.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: bold;
+	src: url('anjoman/Anjoman-CondensedBold.eot');
+	src: url('anjoman/Anjoman-CondensedBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed;
+	font-weight: normal;
+	src: url('anjoman/Anjoman-Condensed.eot');
+	src: url('anjoman/Anjoman-Condensed.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-Condensed.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-Condensed.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+/**
+CondensedItalic fonts	
+**/
+
+
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 100;
+	src: url('anjoman/Anjoman-CondensedThinItalic.eot');
+	src: url('anjoman/Anjoman-CondensedThinItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedThinItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedThinItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 200;
+	src: url('anjoman/Anjoman-CondensedExtraLightItalic.eot');
+	src: url('anjoman/Anjoman-CondensedExtraLightItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedExtraLightItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedExtraLightItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 300;
+	src: url('anjoman/Anjoman-CondensedLightItalic.eot');
+	src: url('anjoman/Anjoman-CondensedLightItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedLightItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedLightItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 500;
+	src: url('anjoman/Anjoman-CondensedMediumItalic.eot');
+	src: url('anjoman/Anjoman-CondensedMediumItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedMediumItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedMediumItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 600;
+	src: url('anjoman/Anjoman-CondensedSemiBoldItalic.eot');
+	src: url('anjoman/Anjoman-CondensedSemiBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedSemiBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedSemiBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 750;
+	src: url('anjoman/Anjoman-CondensedExtraBoldItalic.eot');
+	src: url('anjoman/Anjoman-CondensedExtraBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedExtraBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedExtraBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 800;
+	src: url('anjoman/Anjoman-CondensedUltraBoldItalic.eot');
+	src: url('anjoman/Anjoman-CondensedUltraBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedUltraBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedUltraBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 850;
+	src: url('anjoman/Anjoman-CondensedBlackItalic.eot');
+	src: url('anjoman/Anjoman-CondensedBlackItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedBlackItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedBlackItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed condensed italic;
+	font-weight: 900;
+	src: url('anjoman/Anjoman-CondensedHeavyItalic.eot');
+	src: url('anjoman/Anjoman-CondensedHeavyItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedHeavyItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedHeavyItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: 1000;
+	src: url('anjoman/Anjoman-CondensedSuperHeavyItalic.eot');
+	src: url('anjoman/Anjoman-CondensedSuperHeavyItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedSuperHeavyItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedSuperHeavyItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: bold;
+	src: url('anjoman/Anjoman-CondensedBoldItalic.eot');
+	src: url('anjoman/Anjoman-CondensedBoldItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedBoldItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedBoldItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Anjoman;
+	font-style: condensed italic;
+	font-weight: normal;
+	src: url('anjoman/Anjoman-CondensedItalic.eot');
+	src: url('anjoman/Anjoman-CondensedItalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('anjoman/Anjoman-CondensedItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('anjoman/Anjoman-CondensedItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}/**
+*
+*	Name:			Aria Fonts
+*	Version:			2.4
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونتایران سنس Xا یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+Aria fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: 4RN73Y  
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Black.woff2') format('woff2'),
+        url('aria/AriaWeb-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Bold.woff2') format('woff2'),
+        url('aria/AriaWeb-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Black.woff2') format('woff2'),
+        url('aria/AriaWeb-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-ExtraBold.woff2') format('woff2'),
+        url('aria/AriaWeb-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-ExtraLight.woff2') format('woff2'),
+        url('aria/AriaWeb-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Medium.woff2') format('woff2'),
+        url('aria/AriaWeb-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Normal.woff2') format('woff2'),
+        url('aria/AriaWeb-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-ExtraBold.woff2') format('woff2'),
+        url('aria/AriaWeb-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Medium.woff2') format('woff2'),
+        url('aria/AriaWeb-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Heavy.woff2') format('woff2'),
+        url('aria/AriaWeb-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Normal.woff2') format('woff2'),
+        url('aria/AriaWeb-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Light.woff2') format('woff2'),
+        url('aria/AriaWeb-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Light.woff2') format('woff2'),
+        url('aria/AriaWeb-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AriaWeb Normal';
+    src: url('aria/AriaWeb-Regular.woff2') format('woff2'),
+        url('aria/AriaWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-ExtraLight.woff2') format('woff2'),
+        url('aria/AriaWeb-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Heavy.woff2') format('woff2'),
+        url('aria/AriaWeb-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AriaWeb Normal';
+    src: url('aria/AriaWeb-Regular.woff2') format('woff2'),
+        url('aria/AriaWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-UltraBold.woff2') format('woff2'),
+        url('aria/AriaWeb-UltraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Thin.woff2') format('woff2'),
+        url('aria/AriaWeb-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-SemiBold.woff2') format('woff2'),
+        url('aria/AriaWeb-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-Thin.woff2') format('woff2'),
+        url('aria/AriaWeb-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-UltraBold.woff2') format('woff2'),
+        url('aria/AriaWeb-UltraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aria';
+    src: url('aria/AriaWeb-SemiBold.woff2') format('woff2'),
+        url('aria/AriaWeb-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/**
+*
+*	Name:			DANA Fonts
+*	Version:			3.0
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		nov 12, 2021
+*	Updated on:		nov 12, 2021
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت دانا یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+DANA fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: YQZRW5 
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 10;
+	src: url('dana/Dana-Hairline.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-Hairline.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 100;
+	src: url('dana/Dana-Thin.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-Thin.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 200;
+	src: url('dana/Dana-UltraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-UltraLight.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 300;
+	src: url('dana/Dana-Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-Light.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 500;
+	src: url('dana/Dana-Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-Medium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 600;
+	src: url('dana/Dana-DemiBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-DemiBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 800;
+	src: url('dana/Dana-ExtraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-ExtraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 900;
+	src: url('dana/Dana-Black.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-Black.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: bold;
+	src: url('dana/Dana-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: normal;
+	src: url('dana/Dana-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('dana/Dana-Regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+/**
+*
+*	Name:			IRANSansX Fonts
+*	Version:			2.4
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		Apr 22, 2021
+*	Updated on:		Jan 22, 2022
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونتایران سنس Xا یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+IRANSansX fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 100;
+	src: url('iransansx/IRANSansX-Thin.woff') format('woff'),   
+	url('iransansx/IRANSansX-Thin.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 200;
+	src: url('iransansx/IRANSansX-UltraLight.woff') format('woff'),   
+	url('iransansx/IRANSansX-UltraLight.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 300;
+	src: url('iransansx/IRANSansX-Light.woff') format('woff'),   
+	url('iransansx/IRANSansX-Light.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 500;
+	src: url('iransansx/IRANSansX-Medium.woff') format('woff'),   
+	url('iransansx/IRANSansX-Medium.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 600;
+	src: url('iransansx/IRANSansX-DemiBold.woff') format('woff'),   
+	url('iransansx/IRANSansX-DemiBold.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 800;
+	src: url('iransansx/IRANSansX-ExtraBold.woff') format('woff'),   
+	url('iransansx/IRANSansX-ExtraBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 900;
+	src: url('iransansx/IRANSansX-Black.woff') format('woff'),   
+	url('iransansx/IRANSansX-Black.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: bold;
+	src: url('iransansx/IRANSansX-Bold.woff') format('woff'),   
+	url('iransansx/IRANSansX-Bold.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: normal;
+	src: url('iransansx/IRANSansX-Regular.woff') format('woff'),   
+	url('iransansx/IRANSansX-Regular.woff2') format('woff2');	
+}
+
+
+/**
+*
+*	Name:			IRANYekanX Fonts
+*	Version:			2.4
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		Aug 02, 2022
+*	Updated on:		Aug 02, 2022
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت ایران یکان X  یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+IRANYekanX fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 100;
+	src: url('iranyekanx/IRANYekanX-Thin.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-Thin.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 200;
+	src: url('iranyekanx/IRANYekanX-UltraLight.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-UltraLight.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 300;
+	src: url('iranyekanx/IRANYekanX-Light.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-Light.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 500;
+	src: url('iranyekanx/IRANYekanX-Medium.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-Medium.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 600;
+	src: url('iranyekanx/IRANYekanX-DemiBold.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-DemiBold.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 800;
+	src: url('iranyekanx/IRANYekanX-ExtraBold.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-ExtraBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 900;
+	src: url('iranyekanx/IRANYekanX-Black.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-Black.woff2') format('woff2');		 
+}
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 950;
+	src: url('iranyekanx/IRANYekanX-ExtraBlack.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-ExtraBlack.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: 1000;
+	src: url('iranyekanx/IRANYekanX-Heavy.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-Heavy.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: bold;
+	src: url('iranyekanx/IRANYekanX-Bold.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-Bold.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: IRANYekanX;
+	font-style: normal;
+	font-weight: normal;
+	src: url('iranyekanx/IRANYekanX-Regular.woff') format('woff'),   
+	url('iranyekanx/IRANYekanX-Regular.woff2') format('woff2');	
+}
+
+
+﻿/**
+*
+*	Name:			Kalameh Fonts
+*	Version:			4.1
+*	Author:			Naser Khadem
+*	Created on:		March 11, 2019
+*	Updated on:		July 17, 2021
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت کلمه یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+Kalameh fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: 100;
+	src: url('kalameh/KalamehWeb-Thin.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-Thin.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: 200;
+	src: url('kalameh/KalamehWeb-ExtraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-ExtraLight.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: 300;
+	src: url('kalameh/KalamehWeb-Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-Light.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: 500;
+	src: url('kalameh/KalamehWeb-Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-Medium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: 600;
+	src: url('kalameh/KalamehWeb-Semibold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-Semibold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: 800;
+	src: url('kalameh/KalamehWeb-ExtraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-ExtraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: 900;
+	src: url('kalameh/KalamehWeb-Black.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-Black.woff') format('woff')  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: bold;
+	src: url('kalameh/KalamehWeb-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: Kalameh;
+	font-style: normal;
+	font-weight: normal;
+	src: url('kalameh/KalamehWeb-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('kalameh/KalamehWeb-Regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+/* Generated by script */
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-ExtraLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family:IRANYekanX,matn;
+  src: url('vazirmatn/Vazirmatn-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

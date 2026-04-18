@@ -1,6 +1,6 @@
 const SUPPORTED_LANGUAGES = ["en", "ar", "fa"];
 const RTL_LANGUAGES = new Set(["ar", "fa"]);
-const DEFAULT_LANGUAGE = "en";
+const DEFAULT_LANGUAGE = "fa";
 const LOCALE_PATH = "assets/locales";
 const localeCache = new Map();
 
