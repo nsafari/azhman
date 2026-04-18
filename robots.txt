@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Avoid crawling local build/tooling internals
+Disallow: /tools/
+Disallow: /node_modules/
+
+Sitemap: https://azhman.company/sitemap.xml
