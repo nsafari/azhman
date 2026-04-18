@@ -1,0 +1,133 @@
+/* Hybrid mode: keep multilingual structure, adopt Azhman look-and-feel */
+
+:root {
+  --azhman-accent: #f7c948;
+  --azhman-dark: #15202b;
+  --azhman-primary: #4d6d8a;
+  --azhman-bg: #f7f8fa;
+  --azhman-card: #ffffff;
+  --azhman-border: #d9dde3;
+  --azhman-text: #202833;
+}
+
+html,
+body {
+  background: var(--azhman-bg);
+  color: var(--azhman-text);
+  font-family: "Vazirmatn", "IRANYekanX", "Kalameh", "Inter", "Segoe UI", Tahoma, sans-serif;
+}
+
+.site-header {
+  background: #ffffff;
+  border-block-end: 1px solid var(--azhman-border);
+}
+
+.header-inner {
+  min-block-size: 4.25rem;
+}
+
+.brand {
+  font-weight: 800;
+  font-size: 1.15rem;
+  color: var(--azhman-dark);
+}
+
+.main-nav ul {
+  gap: 1.1rem;
+}
+
+.main-nav a {
+  color: var(--azhman-dark);
+  font-weight: 600;
+}
+
+.main-nav a:hover,
+.main-nav a:focus-visible {
+  color: var(--azhman-primary);
+}
+
+.lang-switch button {
+  border-color: #b9c4d0;
+  background: #fff;
+}
+
+.lang-switch button.is-active {
+  background: var(--azhman-primary);
+  border-color: var(--azhman-primary);
+}
+
+.section {
+  padding-block: clamp(2.25rem, 4vw, 4rem);
+}
+
+.hero {
+  background: linear-gradient(180deg, #fff 0%, #f6f8fb 100%);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--azhman-dark);
+}
+
+.eyebrow {
+  color: var(--azhman-primary);
+  letter-spacing: 0.06em;
+}
+
+.lead {
+  color: #374a61;
+}
+
+.card {
+  background: var(--azhman-card);
+  border-color: var(--azhman-border);
+  box-shadow: 0 10px 30px rgba(13, 27, 41, 0.08);
+}
+
+.highlight-card {
+  background: linear-gradient(145deg, #f8fbff, #ffffff);
+}
+
+.button {
+  border-radius: 0.6rem;
+}
+
+.button-primary {
+  background: var(--azhman-primary);
+  border-color: var(--azhman-primary);
+}
+
+.button-primary:hover,
+.button-primary:focus-visible {
+  background: #3f5b75;
+  border-color: #3f5b75;
+}
+
+.button-secondary {
+  background: #ffffff;
+  border-color: #cfd7e1;
+}
+
+.cta-strip {
+  background: #fff;
+  border-color: var(--azhman-border);
+}
+
+.site-footer {
+  background: #fff;
+  border-block-start: 1px solid var(--azhman-border);
+}
+
+.contact-form input,
+.contact-form textarea {
+  border-color: #c5ced8;
+}
+
+:root[dir="rtl"] body {
+  font-family: "Vazirmatn", "IRANYekanX", "Kalameh", Tahoma, "Segoe UI", sans-serif;
+}
+
+:root[dir="ltr"] body {
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+}

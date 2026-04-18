@@ -1,6 +1,6 @@
 const SUPPORTED_LANGUAGES = ["en", "ar", "fa"];
 const RTL_LANGUAGES = new Set(["ar", "fa"]);
-const DEFAULT_LANGUAGE = "en";
+const DEFAULT_LANGUAGE = "fa";
 const LOCALE_PATH = "assets/locales";
 const localeCache = new Map();
 
@@ -75,7 +75,7 @@ function translate(keyPath) {
 
   const fallbackValue = resolveNestedValue(fallbackLocale, keyPath);
   if (fallbackValue !== undefined) {
-    console.warn(`[i18n] Missing key "${keyPath}" in ${activeLanguage}; using English fallback.`);
+    console.warn(`[i18n] Missing key "${keyPath}" in ${activeLanguage}; using default fallback locale.`);
     return fallbackValue;
   }
 
@@ -104,12 +104,44 @@ function updateMetadata() {
   const pageName = document.body?.dataset?.page || "home";
   const title = translate(`meta.pages.${pageName}.title`);
   const description = translate(`meta.pages.${pageName}.description`);
+  const pagePath = window.location.pathname.split("/").pop() || "index.html";
+  const canonicalUrl = `${window.location.origin}/${pagePath}`;
+  const localeMap = {
+    fa: "fa_IR",
+    ar: "ar_AR",
+    en: "en_US",
+  };
+  const activeLocaleCode = localeMap[activeLanguage] || localeMap[DEFAULT_LANGUAGE];
 
   document.title = title;
+
+  const titleElement = document.querySelector("title");
+  if (titleElement) {
+    titleElement.textContent = title;
+  }
 
   const descriptionElement = document.querySelector('meta[name="description"]');
   if (descriptionElement) {
     descriptionElement.setAttribute("content", description);
+  }
+
+  const setMetaBySelector = (selector, value) => {
+    const element = document.querySelector(selector);
+    if (element) {
+      element.setAttribute("content", value);
+    }
+  };
+
+  setMetaBySelector('meta[property="og:title"]', title);
+  setMetaBySelector('meta[property="og:description"]', description);
+  setMetaBySelector('meta[property="og:url"]', canonicalUrl);
+  setMetaBySelector('meta[property="og:locale"]', activeLocaleCode);
+  setMetaBySelector('meta[name="twitter:title"]', title);
+  setMetaBySelector('meta[name="twitter:description"]', description);
+
+  const canonicalElement = document.querySelector('link[rel="canonical"]');
+  if (canonicalElement) {
+    canonicalElement.setAttribute("href", canonicalUrl);
   }
 }
 
@@ -166,7 +198,7 @@ async function hydrateLocale(language) {
     const locale = await fetchLocale(normalized);
     return { language: normalized, locale };
   } catch (error) {
-    console.warn(`[i18n] Locale load failed for ${normalized}. Falling back to English.`);
+    console.warn(`[i18n] Locale load failed for ${normalized}. Falling back to default locale.`);
     const locale = await fetchLocale(DEFAULT_LANGUAGE);
     return { language: DEFAULT_LANGUAGE, locale };
   }

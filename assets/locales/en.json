@@ -2,25 +2,25 @@
   "meta": {
     "pages": {
       "home": {
-        "title": "Azhman | Home",
-        "description": "A multilingual website foundation built with pure HTML, CSS, and JavaScript."
+        "title": "Azhman Construction Holding | Home",
+        "description": "Azhman Construction Holding delivers design, execution, and renovation services with high quality."
       },
       "about": {
-        "title": "Azhman | About",
-        "description": "Learn about Azhman's mission, vision, and delivery approach."
+        "title": "Azhman Construction Holding | About",
+        "description": "Learn about Azhman’s vision, mission, and practical experience in construction projects."
       },
       "services": {
-        "title": "Azhman | Services",
-        "description": "Explore strategy, design, and delivery services from Azhman."
+        "title": "Azhman Construction Holding | Services",
+        "description": "Integrated services across design, execution, renovation, project management, and facilities."
       },
       "contact": {
-        "title": "Azhman | Contact",
-        "description": "Reach out to Azhman for your next product and platform initiative."
+        "title": "Azhman Construction Holding | Contact",
+        "description": "Contact Azhman for consultation and execution support for your next project."
       }
     }
   },
   "common": {
-    "siteName": "Azhman",
+    "siteName": "Azhman Construction Holding",
     "skipToContent": "Skip to main content",
     "nav": {
       "home": "Home",
@@ -35,14 +35,14 @@
         "fa": "FA"
       },
       "en": "English",
-      "ar": "Arabic",
-      "fa": "Persian",
+      "ar": "العربية",
+      "fa": "فارسی",
       "switchToEn": "Switch language to English",
       "switchToAr": "Switch language to Arabic",
       "switchToFa": "Switch language to Persian"
     },
     "footer": {
-      "description": "A simple multilingual starter built without framework dependencies.",
+      "description": "Azhman Construction Holding with 15+ years of experience in design, execution, and renovation.",
       "rights": "All rights reserved."
     },
     "a11y": {
@@ -53,100 +53,100 @@
   },
   "home": {
     "hero": {
-      "eyebrow": "Multilingual platform",
-      "title": "Build once. Speak to every audience.",
-      "description": "A modern web experience with one codebase and full support for English, Arabic, and Persian.",
+      "eyebrow": "Design, Build, Renovate",
+      "title": "We turn your ideas into reality",
+      "description": "With a specialized team in architecture, execution, and project management, Azhman supports you from concept to delivery.",
       "primaryCta": "View services",
-      "secondaryCta": "Contact us"
+      "secondaryCta": "Request consultation"
     },
     "highlight": {
-      "title": "Translation-friendly structure",
-      "description": "Use stable keys and locale files so content updates stay organized and scalable."
+      "title": "Why Azhman?",
+      "description": "Guaranteed quality, on-time delivery, expert teams, and continuous support for long-lasting project value."
     },
     "features": {
       "fast": {
-        "title": "Fast rollout",
-        "description": "Ship updates quickly by avoiding duplicated layouts per language."
+        "title": "Disciplined execution",
+        "description": "Precise planning and resource control to deliver projects on agreed timelines."
       },
       "flexible": {
-        "title": "Flexible architecture",
-        "description": "Keep styles maintainable with logical properties and selective RTL overrides."
+        "title": "Integrated services",
+        "description": "From architectural design to facilities and project management in one coordinated path."
       },
       "support": {
-        "title": "Future ready",
-        "description": "Add pages and languages with a predictable, key-based content workflow."
+        "title": "Experience and trust",
+        "description": "A practical track record across residential, commercial, administrative, and civil projects."
       }
     }
   },
   "about": {
     "hero": {
-      "eyebrow": "Who we are",
-      "title": "A small team focused on clear digital experiences",
-      "description": "We align content, design, and engineering so multilingual products remain easy to evolve."
+      "eyebrow": "Construction leadership",
+      "title": "About Azhman Construction Holding",
+      "description": "We combine engineering expertise, modern technologies, and professional management to build sustainable outcomes."
     },
     "values": {
       "mission": {
         "title": "Mission",
-        "description": "Deliver reliable websites with strong accessibility and language support from day one."
+        "description": "Deliver professional design, construction, and renovation solutions that improve quality of life and long-term value."
       },
       "vision": {
         "title": "Vision",
-        "description": "Help organizations reach users across regions with consistent product quality."
+        "description": "Become a leading development group through innovation, quality, and accountability."
       },
       "promise": {
-        "title": "Promise",
-        "description": "Ship practical solutions with clear structure and minimal technical overhead."
+        "title": "Commitment",
+        "description": "Maintain standards, transparency, and full client partnership throughout project stages."
       }
     }
   },
   "services": {
     "hero": {
-      "eyebrow": "What we do",
-      "title": "Services for modern multilingual websites",
-      "description": "From planning to launch, we support every layer of your site rewrite."
+      "eyebrow": "What we deliver",
+      "title": "Specialized services by Azhman",
+      "description": "Design and consulting, construction and execution, renovation, project management, quality control, and new technologies."
     },
     "items": {
       "strategy": {
-        "title": "Content strategy",
-        "description": "Create a translation key map, metadata rules, and editorial workflow."
+        "title": "Engineering design and consulting",
+        "description": "Architectural and structural design, facade and landscape planning, and feasibility studies for stronger decisions."
       },
       "design": {
-        "title": "UI adaptation",
-        "description": "Refactor components for LTR and RTL readability without duplicating templates."
+        "title": "Construction, execution, and renovation",
+        "description": "Delivery of residential, commercial, and administrative projects with high technical standards."
       },
       "delivery": {
-        "title": "Implementation",
-        "description": "Build robust i18n modules and integrate them across static pages and forms."
+        "title": "Management and support",
+        "description": "Contract management, quality control, procurement, and operations support for sustainable project outcomes."
       }
     },
     "cta": {
-      "title": "Ready to start your rewrite?",
-      "button": "Talk to our team"
+      "title": "Ready to start your project?",
+      "button": "Submit consultation request"
     }
   },
   "contact": {
     "hero": {
       "eyebrow": "Get in touch",
-      "title": "Let's plan your multilingual rollout",
-      "description": "Share your goals and we will suggest a practical migration path."
+      "title": "Contact Azhman Construction Holding",
+      "description": "Reach out for engineering consultation, initial estimates, and execution planning for your project."
     },
     "details": {
       "title": "Contact details",
-      "description": "We usually respond within one business day.",
+      "description": "Our team is available on business days to answer your questions and requests.",
       "emailLabel": "Email:",
       "phoneLabel": "Phone:",
-      "locationLabel": "Location:",
-      "locationValue": "Dubai, UAE"
+      "locationLabel": "Address:",
+      "locationValue": "Mashhad, Sanabad Street"
     },
     "form": {
       "title": "Send a message",
       "nameLabel": "Full name",
       "namePlaceholder": "Enter your name",
-      "emailLabel": "Email address",
+      "emailLabel": "Email",
       "emailPlaceholder": "Enter your email",
-      "messageLabel": "Project details",
-      "messagePlaceholder": "Tell us about your website rewrite",
-      "submit": "Submit"
+      "messageLabel": "Request details",
+      "messagePlaceholder": "Describe your project needs",
+      "submit": "Send"
     }
   }
 }

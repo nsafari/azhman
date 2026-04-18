@@ -1,0 +1,1678 @@
+{
+  "startUrl": "https://azhman.company/",
+  "crawledAt": "2026-04-18T04:58:45.539Z",
+  "totalPages": 180,
+  "options": {
+    "startUrl": "https://azhman.company/",
+    "outputDir": "./output",
+    "maxPages": 250,
+    "concurrency": 4,
+    "delayMs": 250,
+    "timeoutMs": 20000,
+    "includeSubdomains": false,
+    "retryCount": 3,
+    "retryBackoffMs": 700,
+    "seedSitemap": true,
+    "downloadReferencedAssets": true,
+    "assetConcurrency": 8
+  },
+  "pages": [
+    {
+      "id": "home__a2e7c860",
+      "url": "https://azhman.company/",
+      "path": "/",
+      "title": "هلدینگ ساختمانی آژمان | طراحی و بازسازی ساختمان در مشهد",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/home__a2e7c860.html",
+      "savedMarkdownPath": "pages/markdown/home__a2e7c860.md"
+    },
+    {
+      "id": "3d-design-of-the-project__76c47101",
+      "url": "https://azhman.company/3d-design-of-the-project",
+      "path": "/3d-design-of-the-project",
+      "title": "طراحی سه‌بعدی پروژه — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/3d-design-of-the-project__76c47101.html",
+      "savedMarkdownPath": "pages/markdown/3d-design-of-the-project__76c47101.md"
+    },
+    {
+      "id": "about__53a5e1f8",
+      "url": "https://azhman.company/about",
+      "path": "/about",
+      "title": "درباره ما — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/about__53a5e1f8.html",
+      "savedMarkdownPath": "pages/markdown/about__53a5e1f8.md"
+    },
+    {
+      "id": "architectural-design-and-mapping__b79270d5",
+      "url": "https://azhman.company/architectural-design-and-mapping",
+      "path": "/architectural-design-and-mapping",
+      "title": "طراحی معماری و نقشه‌کشی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/architectural-design-and-mapping__b79270d5.html",
+      "savedMarkdownPath": "pages/markdown/architectural-design-and-mapping__b79270d5.md"
+    },
+    {
+      "id": "blog__d0124dd3",
+      "url": "https://azhman.company/blog",
+      "path": "/blog",
+      "title": "مطالب و مقالات تخصصی حوزه ساخت و ساز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__d0124dd3.html",
+      "savedMarkdownPath": "pages/markdown/blog__d0124dd3.md"
+    },
+    {
+      "id": "blog__10-key-points-for-success-in-building-renovation-and-renovation-projects__919e0093",
+      "url": "https://azhman.company/blog/10-key-points-for-success-in-building-renovation-and-renovation-projects",
+      "path": "/blog/10-key-points-for-success-in-building-renovation-and-renovation-projects",
+      "title": "۱۰ نکته کلیدی برای موفقیت در پروژه‌های بازسازی و نوسازی ساختمان — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__10-key-points-for-success-in-building-renovation-and-renovation-projects__919e0093.html",
+      "savedMarkdownPath": "pages/markdown/blog__10-key-points-for-success-in-building-renovation-and-renovation-projects__919e0093.md"
+    },
+    {
+      "id": "blog__a-complete-guide-to-the-implementation-of-earthquake-resistance-projects__0df91852",
+      "url": "https://azhman.company/blog/a-complete-guide-to-the-implementation-of-earthquake-resistance-projects",
+      "path": "/blog/a-complete-guide-to-the-implementation-of-earthquake-resistance-projects",
+      "title": "راهنمای کامل اجرای پروژه‌های مقاوم‌سازی در برابر زلزله — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__a-complete-guide-to-the-implementation-of-earthquake-resistance-projects__0df91852.html",
+      "savedMarkdownPath": "pages/markdown/blog__a-complete-guide-to-the-implementation-of-earthquake-resistance-projects__0df91852.md"
+    },
+    {
+      "id": "blog__a-guide-to-choosing-new-construction-materials-for-sustainable-projects__e252e518",
+      "url": "https://azhman.company/blog/a-guide-to-choosing-new-construction-materials-for-sustainable-projects",
+      "path": "/blog/a-guide-to-choosing-new-construction-materials-for-sustainable-projects",
+      "title": "راهنمای جامع انتخاب مصالح نوین ساختمانی برای پروژه‌های پایدار — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__a-guide-to-choosing-new-construction-materials-for-sustainable-projects__e252e518.html",
+      "savedMarkdownPath": "pages/markdown/blog__a-guide-to-choosing-new-construction-materials-for-sustainable-projects__e252e518.md"
+    },
+    {
+      "id": "blog__best-renovation-company-mashhad__04d28cbb",
+      "url": "https://azhman.company/blog/best-renovation-company-mashhad",
+      "path": "/blog/best-renovation-company-mashhad",
+      "title": "انتخاب بهترین شرکت بازسازی ساختمان در مشهد — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__best-renovation-company-mashhad__04d28cbb.html",
+      "savedMarkdownPath": "pages/markdown/blog__best-renovation-company-mashhad__04d28cbb.md"
+    },
+    {
+      "id": "blog__best-vr-headsets-2025__9cca7fb0",
+      "url": "https://azhman.company/blog/best-vr-headsets-2025",
+      "path": "/blog/best-vr-headsets-2025",
+      "title": "بهترین هدست‌های واقعیت مجازی برای نمایش طراحی ساختمان در سال 2025 — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__best-vr-headsets-2025__9cca7fb0.html",
+      "savedMarkdownPath": "pages/markdown/blog__best-vr-headsets-2025__9cca7fb0.md"
+    },
+    {
+      "id": "blog__building-facade-renovation-mashhad__20ebb4f2",
+      "url": "https://azhman.company/blog/building-facade-renovation-mashhad",
+      "path": "/blog/building-facade-renovation-mashhad",
+      "title": "بازسازی نمای ساختمان در مشهد: جانی دوباره به ظاهر ملک خود ببخشید (انواع نما و مصالح) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__building-facade-renovation-mashhad__20ebb4f2.html",
+      "savedMarkdownPath": "pages/markdown/blog__building-facade-renovation-mashhad__20ebb4f2.md"
+    },
+    {
+      "id": "blog__buy-luxury-renovation-materials-mashhad__6395cccb",
+      "url": "https://azhman.company/blog/buy-luxury-renovation-materials-mashhad",
+      "path": "/blog/buy-luxury-renovation-materials-mashhad",
+      "title": "خرید مصالح بازسازی مشهد: راهنمای پاتوق‌های لوکس و خاص — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__buy-luxury-renovation-materials-mashhad__6395cccb.html",
+      "savedMarkdownPath": "pages/markdown/blog__buy-luxury-renovation-materials-mashhad__6395cccb.md"
+    },
+    {
+      "id": "blog__calming-home-renovation-mashhad__c3caf2fb",
+      "url": "https://azhman.company/blog/calming-home-renovation-mashhad",
+      "path": "/blog/calming-home-renovation-mashhad",
+      "title": "بازسازی آرامش‌بخش مشهد: راهنمای خلق خانه ضد استرس — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__calming-home-renovation-mashhad__c3caf2fb.html",
+      "savedMarkdownPath": "pages/markdown/blog__calming-home-renovation-mashhad__c3caf2fb.md"
+    },
+    {
+      "id": "blog__category__design-and-consulting__5445d5e5",
+      "url": "https://azhman.company/blog/category/design-and-consulting",
+      "path": "/blog/category/design-and-consulting",
+      "title": "طراحی و مشاوره - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__category__design-and-consulting__5445d5e5.html",
+      "savedMarkdownPath": "pages/markdown/blog__category__design-and-consulting__5445d5e5.md"
+    },
+    {
+      "id": "blog__commercial-office-renovation-mashhad__4512c21e",
+      "url": "https://azhman.company/blog/commercial-office-renovation-mashhad",
+      "path": "/blog/commercial-office-renovation-mashhad",
+      "title": "بازسازی فضاهای تجاری و اداری در مشهد: راهکارهای آژمان برای کسب و کارها — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__commercial-office-renovation-mashhad__4512c21e.html",
+      "savedMarkdownPath": "pages/markdown/blog__commercial-office-renovation-mashhad__4512c21e.md"
+    },
+    {
+      "id": "blog__common-home-renovation-mistakes-mashhad__93dc107a",
+      "url": "https://azhman.company/blog/common-home-renovation-mistakes-mashhad",
+      "path": "/blog/common-home-renovation-mistakes-mashhad",
+      "title": "اشتباهات رایج در بازسازی خانه که باید از آنها دوری کنید (تجربیات پیمانکاران مشهد) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__common-home-renovation-mistakes-mashhad__93dc107a.html",
+      "savedMarkdownPath": "pages/markdown/blog__common-home-renovation-mistakes-mashhad__93dc107a.md"
+    },
+    {
+      "id": "blog__complete-building-renovation-mashhad__436ac8be",
+      "url": "https://azhman.company/blog/complete-building-renovation-mashhad",
+      "path": "/blog/complete-building-renovation-mashhad",
+      "title": "صفر تا صد بازسازی ساختمان در مشهد: مراحل، هزینه‌ها و نکات کلیدی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__complete-building-renovation-mashhad__436ac8be.html",
+      "savedMarkdownPath": "pages/markdown/blog__complete-building-renovation-mashhad__436ac8be.md"
+    },
+    {
+      "id": "blog__cost-of-home-renovation-mashhad__b5e43f8b",
+      "url": "https://azhman.company/blog/cost-of-home-renovation-mashhad",
+      "path": "/blog/cost-of-home-renovation-mashhad",
+      "title": "برآورد هزینه بازسازی منزل در مشهد: چه عواملی بر قیمت نهایی تاثیر می‌گذارند؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__cost-of-home-renovation-mashhad__b5e43f8b.html",
+      "savedMarkdownPath": "pages/markdown/blog__cost-of-home-renovation-mashhad__b5e43f8b.md"
+    },
+    {
+      "id": "blog__design-and-consulting__best-renovation-company-mashhad__21b67b66",
+      "url": "https://azhman.company/blog/design-and-consulting/best-renovation-company-mashhad",
+      "path": "/blog/design-and-consulting/best-renovation-company-mashhad",
+      "title": "انتخاب بهترین شرکت بازسازی ساختمان در مشهد — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__best-renovation-company-mashhad__21b67b66.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__best-renovation-company-mashhad__21b67b66.md"
+    },
+    {
+      "id": "blog__design-and-consulting__building-facade-renovation-mashhad__0b19b4bd",
+      "url": "https://azhman.company/blog/design-and-consulting/building-facade-renovation-mashhad",
+      "path": "/blog/design-and-consulting/building-facade-renovation-mashhad",
+      "title": "بازسازی نمای ساختمان در مشهد: جانی دوباره به ظاهر ملک خود ببخشید (انواع نما و مصالح) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__building-facade-renovation-mashhad__0b19b4bd.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__building-facade-renovation-mashhad__0b19b4bd.md"
+    },
+    {
+      "id": "blog__design-and-consulting__commercial-office-renovation-mashhad__fc8d4875",
+      "url": "https://azhman.company/blog/design-and-consulting/commercial-office-renovation-mashhad",
+      "path": "/blog/design-and-consulting/commercial-office-renovation-mashhad",
+      "title": "بازسازی فضاهای تجاری و اداری در مشهد: راهکارهای آژمان برای کسب و کارها — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__commercial-office-renovation-mashhad__fc8d4875.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__commercial-office-renovation-mashhad__fc8d4875.md"
+    },
+    {
+      "id": "blog__design-and-consulting__common-home-renovation-mistakes-mashhad__d2b89722",
+      "url": "https://azhman.company/blog/design-and-consulting/common-home-renovation-mistakes-mashhad",
+      "path": "/blog/design-and-consulting/common-home-renovation-mistakes-mashhad",
+      "title": "اشتباهات رایج در بازسازی خانه که باید از آنها دوری کنید (تجربیات پیمانکاران مشهد) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__common-home-renovation-mistakes-mashhad__d2b89722.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__common-home-renovation-mistakes-mashhad__d2b89722.md"
+    },
+    {
+      "id": "blog__design-and-consulting__complete-building-renovation-mashhad__6f35846b",
+      "url": "https://azhman.company/blog/design-and-consulting/complete-building-renovation-mashhad",
+      "path": "/blog/design-and-consulting/complete-building-renovation-mashhad",
+      "title": "صفر تا صد بازسازی ساختمان در مشهد: مراحل، هزینه‌ها و نکات کلیدی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__complete-building-renovation-mashhad__6f35846b.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__complete-building-renovation-mashhad__6f35846b.md"
+    },
+    {
+      "id": "blog__design-and-consulting__cost-of-home-renovation-mashhad__aa0c189a",
+      "url": "https://azhman.company/blog/design-and-consulting/cost-of-home-renovation-mashhad",
+      "path": "/blog/design-and-consulting/cost-of-home-renovation-mashhad",
+      "title": "برآورد هزینه بازسازی منزل در مشهد: چه عواملی بر قیمت نهایی تاثیر می‌گذارند؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__cost-of-home-renovation-mashhad__aa0c189a.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__cost-of-home-renovation-mashhad__aa0c189a.md"
+    },
+    {
+      "id": "blog__design-and-consulting__interior-renovation-trends-mashhad__2655c6c7",
+      "url": "https://azhman.company/blog/design-and-consulting/interior-renovation-trends-mashhad",
+      "path": "/blog/design-and-consulting/interior-renovation-trends-mashhad",
+      "title": "جدیدترین ترندهای بازسازی داخلی منزل در مشهد برای سال ۱۴۰۴: خانه‌ای به سبک فردا! — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__interior-renovation-trends-mashhad__2655c6c7.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__interior-renovation-trends-mashhad__2655c6c7.md"
+    },
+    {
+      "id": "blog__design-and-consulting__kitchen-renovation-mashhad__86ab95f8",
+      "url": "https://azhman.company/blog/design-and-consulting/kitchen-renovation-mashhad",
+      "path": "/blog/design-and-consulting/kitchen-renovation-mashhad",
+      "title": "بازسازی آشپزخانه در مشهد: تبدیل قلب خانه به فضایی رویایی و کاربردی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__kitchen-renovation-mashhad__86ab95f8.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__kitchen-renovation-mashhad__86ab95f8.md"
+    },
+    {
+      "id": "blog__design-and-consulting__modern-bathroom-renovation-ideas-mashhad__3a9d5552",
+      "url": "https://azhman.company/blog/design-and-consulting/modern-bathroom-renovation-ideas-mashhad",
+      "path": "/blog/design-and-consulting/modern-bathroom-renovation-ideas-mashhad",
+      "title": "ایده‌های مدرن برای بازسازی حمام و سرویس بهداشتی در مشهد (حتی بدون تخریب!) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__modern-bathroom-renovation-ideas-mashhad__3a9d5552.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__modern-bathroom-renovation-ideas-mashhad__3a9d5552.md"
+    },
+    {
+      "id": "blog__design-and-consulting__old-house-renovation-mashhad__c4f3cf38",
+      "url": "https://azhman.company/blog/design-and-consulting/old-house-renovation-mashhad",
+      "path": "/blog/design-and-consulting/old-house-renovation-mashhad",
+      "title": "نوسازی و بازسازی خانه‌های قدیمی در مشهد: چالش‌ها و راهکارهای طلایی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__old-house-renovation-mashhad__c4f3cf38.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__old-house-renovation-mashhad__c4f3cf38.md"
+    },
+    {
+      "id": "blog__design-and-consulting__plan-budget-renovation-mashhad__4a5140a5",
+      "url": "https://azhman.company/blog/design-and-consulting/plan-budget-renovation-mashhad",
+      "path": "/blog/design-and-consulting/plan-budget-renovation-mashhad",
+      "title": "چگونه برای بازسازی خانه در مشهد برنامه‌ریزی و بودجه‌بندی کنیم؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__plan-budget-renovation-mashhad__4a5140a5.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__plan-budget-renovation-mashhad__4a5140a5.md"
+    },
+    {
+      "id": "blog__design-and-consulting__rebuild-vs-renovate-mashhad__154f0175",
+      "url": "https://azhman.company/blog/design-and-consulting/rebuild-vs-renovate-mashhad",
+      "path": "/blog/design-and-consulting/rebuild-vs-renovate-mashhad",
+      "title": "بازسازی یا ساخت از نو در مشهد؟ کدام یک برای ملک شما مناسب‌تر است؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__rebuild-vs-renovate-mashhad__154f0175.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__rebuild-vs-renovate-mashhad__154f0175.md"
+    },
+    {
+      "id": "blog__design-and-consulting__renovation-permits-mashhad__53c34b7c",
+      "url": "https://azhman.company/blog/design-and-consulting/renovation-permits-mashhad",
+      "path": "/blog/design-and-consulting/renovation-permits-mashhad",
+      "title": "مجوزهای لازم برای بازسازی ساختمان در مشهد: راهنمای کامل اخذ مجوز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__renovation-permits-mashhad__53c34b7c.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__renovation-permits-mashhad__53c34b7c.md"
+    },
+    {
+      "id": "blog__design-and-consulting__yard-balcony-renovation-mashhad__cd23204d",
+      "url": "https://azhman.company/blog/design-and-consulting/yard-balcony-renovation-mashhad",
+      "path": "/blog/design-and-consulting/yard-balcony-renovation-mashhad",
+      "title": "بازسازی حیاط و بالکن در مشهد: خلق فضایی دنج و کاربردی در آپارتمان و ویلا — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__design-and-consulting__yard-balcony-renovation-mashhad__cd23204d.html",
+      "savedMarkdownPath": "pages/markdown/blog__design-and-consulting__yard-balcony-renovation-mashhad__cd23204d.md"
+    },
+    {
+      "id": "blog__economic-viability-renovation-vakilabad-mashad__50571cac",
+      "url": "https://azhman.company/blog/economic-viability-renovation-vakilabad-mashad",
+      "path": "/blog/economic-viability-renovation-vakilabad-mashad",
+      "title": "صرفه اقتصادی بازسازی مشهد: تحلیل هزینه و سود در وکیل آباد — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__economic-viability-renovation-vakilabad-mashad__50571cac.html",
+      "savedMarkdownPath": "pages/markdown/blog__economic-viability-renovation-vakilabad-mashad__50571cac.md"
+    },
+    {
+      "id": "blog__energy-efficient-renovation-mashhad__829b2451",
+      "url": "https://azhman.company/blog/energy-efficient-renovation-mashhad",
+      "path": "/blog/energy-efficient-renovation-mashhad",
+      "title": "تاثیر بازسازی بر کاهش مصرف انرژی در ساختمان‌های مشهد: خانه گرم‌تر، قبض سبک‌تر! — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__energy-efficient-renovation-mashhad__829b2451.html",
+      "savedMarkdownPath": "pages/markdown/blog__energy-efficient-renovation-mashhad__829b2451.md"
+    },
+    {
+      "id": "blog__home-renovation-mashhad__2d0542f4",
+      "url": "https://azhman.company/blog/home-renovation-mashhad",
+      "path": "/blog/home-renovation-mashhad",
+      "title": "بازسازی خانه در مشهد: چرا و چگونه؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__home-renovation-mashhad__2d0542f4.html",
+      "savedMarkdownPath": "pages/markdown/blog__home-renovation-mashhad__2d0542f4.md"
+    },
+    {
+      "id": "blog__how-can-renovating-an-old-building-increase-the-value-of-your-property__13390978",
+      "url": "https://azhman.company/blog/how-can-renovating-an-old-building-increase-the-value-of-your-property",
+      "path": "/blog/how-can-renovating-an-old-building-increase-the-value-of-your-property",
+      "title": "چگونه نوسازی ساختمان قدیمی می‌تواند ارزش ملک شما را افزایش دهد؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__how-can-renovating-an-old-building-increase-the-value-of-your-property__13390978.html",
+      "savedMarkdownPath": "pages/markdown/blog__how-can-renovating-an-old-building-increase-the-value-of-your-property__13390978.md"
+    },
+    {
+      "id": "blog__how-virtual-reality-is-transforming-the-construction-industry__31af5ec6",
+      "url": "https://azhman.company/blog/how-virtual-reality-is-transforming-the-construction-industry",
+      "path": "/blog/how-virtual-reality-is-transforming-the-construction-industry",
+      "title": "انقلاب در معماری: چگونه واقعیت مجازی صنعت ساخت و ساز را متحول می‌کند؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__how-virtual-reality-is-transforming-the-construction-industry__31af5ec6.html",
+      "savedMarkdownPath": "pages/markdown/blog__how-virtual-reality-is-transforming-the-construction-industry__31af5ec6.md"
+    },
+    {
+      "id": "blog__increase-property-value-mashhad__3908225f",
+      "url": "https://azhman.company/blog/increase-property-value-mashhad",
+      "path": "/blog/increase-property-value-mashhad",
+      "title": "افزایش ارزش ملک در مشهد با بازسازی هوشمندانه: سرمایه‌گذاری پر سود — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__increase-property-value-mashhad__3908225f.html",
+      "savedMarkdownPath": "pages/markdown/blog__increase-property-value-mashhad__3908225f.md"
+    },
+    {
+      "id": "blog__interior-renovation-trends-mashhad__a777b466",
+      "url": "https://azhman.company/blog/interior-renovation-trends-mashhad",
+      "path": "/blog/interior-renovation-trends-mashhad",
+      "title": "جدیدترین ترندهای بازسازی داخلی منزل در مشهد برای سال ۱۴۰۴: خانه‌ای به سبک فردا! — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__interior-renovation-trends-mashhad__a777b466.html",
+      "savedMarkdownPath": "pages/markdown/blog__interior-renovation-trends-mashhad__a777b466.md"
+    },
+    {
+      "id": "blog__kitchen-renovation-mashhad__daff18df",
+      "url": "https://azhman.company/blog/kitchen-renovation-mashhad",
+      "path": "/blog/kitchen-renovation-mashhad",
+      "title": "بازسازی آشپزخانه در مشهد: تبدیل قلب خانه به فضایی رویایی و کاربردی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__kitchen-renovation-mashhad__daff18df.html",
+      "savedMarkdownPath": "pages/markdown/blog__kitchen-renovation-mashhad__daff18df.md"
+    },
+    {
+      "id": "blog__kolangi-house-renovation-mashhad__7b803a6a",
+      "url": "https://azhman.company/blog/kolangi-house-renovation-mashhad",
+      "path": "/blog/kolangi-house-renovation-mashhad",
+      "title": "بازسازی خانه کلنگی در مشهد: از ویرانه تا سرمایه ارزشمند — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__kolangi-house-renovation-mashhad__7b803a6a.html",
+      "savedMarkdownPath": "pages/markdown/blog__kolangi-house-renovation-mashhad__7b803a6a.md"
+    },
+    {
+      "id": "blog__luxury-apartment-renovation-sajjad-mashhad__263a83ac",
+      "url": "https://azhman.company/blog/luxury-apartment-renovation-sajjad-mashhad",
+      "path": "/blog/luxury-apartment-renovation-sajjad-mashhad",
+      "title": "بازسازی آپارتمان لوکس در سجاد مشهد | هلدینگ آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__luxury-apartment-renovation-sajjad-mashhad__263a83ac.html",
+      "savedMarkdownPath": "pages/markdown/blog__luxury-apartment-renovation-sajjad-mashhad__263a83ac.md"
+    },
+    {
+      "id": "blog__modern-bathroom-renovation-ideas-mashhad__8316250f",
+      "url": "https://azhman.company/blog/modern-bathroom-renovation-ideas-mashhad",
+      "path": "/blog/modern-bathroom-renovation-ideas-mashhad",
+      "title": "ایده‌های مدرن برای بازسازی حمام و سرویس بهداشتی در مشهد (حتی بدون تخریب!) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__modern-bathroom-renovation-ideas-mashhad__8316250f.html",
+      "savedMarkdownPath": "pages/markdown/blog__modern-bathroom-renovation-ideas-mashhad__8316250f.md"
+    },
+    {
+      "id": "blog__modern-renovation-styles-mashhad__a4204ce4",
+      "url": "https://azhman.company/blog/modern-renovation-styles-mashhad",
+      "path": "/blog/modern-renovation-styles-mashhad",
+      "title": "سبک بازسازی مدرن مشهد: ترندهای محبوب در هاشمیه و سجاد — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__modern-renovation-styles-mashhad__a4204ce4.html",
+      "savedMarkdownPath": "pages/markdown/blog__modern-renovation-styles-mashhad__a4204ce4.md"
+    },
+    {
+      "id": "blog__old-house-renovation-mashhad__f003b600",
+      "url": "https://azhman.company/blog/old-house-renovation-mashhad",
+      "path": "/blog/old-house-renovation-mashhad",
+      "title": "نوسازی و بازسازی خانه‌های قدیمی در مشهد: چالش‌ها و راهکارهای طلایی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__old-house-renovation-mashhad__f003b600.html",
+      "savedMarkdownPath": "pages/markdown/blog__old-house-renovation-mashhad__f003b600.md"
+    },
+    {
+      "id": "blog__plan-budget-renovation-mashhad__5d73ac6c",
+      "url": "https://azhman.company/blog/plan-budget-renovation-mashhad",
+      "path": "/blog/plan-budget-renovation-mashhad",
+      "title": "چگونه برای بازسازی خانه در مشهد برنامه‌ریزی و بودجه‌بندی کنیم؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__plan-budget-renovation-mashhad__5d73ac6c.html",
+      "savedMarkdownPath": "pages/markdown/blog__plan-budget-renovation-mashhad__5d73ac6c.md"
+    },
+    {
+      "id": "blog__rebuild-vs-renovate-mashhad__e55bba79",
+      "url": "https://azhman.company/blog/rebuild-vs-renovate-mashhad",
+      "path": "/blog/rebuild-vs-renovate-mashhad",
+      "title": "بازسازی یا ساخت از نو در مشهد؟ کدام یک برای ملک شما مناسب‌تر است؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__rebuild-vs-renovate-mashhad__e55bba79.html",
+      "savedMarkdownPath": "pages/markdown/blog__rebuild-vs-renovate-mashhad__e55bba79.md"
+    },
+    {
+      "id": "blog__renovation-materials-mashhad-climate__4aab37ab",
+      "url": "https://azhman.company/blog/renovation-materials-mashhad-climate",
+      "path": "/blog/renovation-materials-mashhad-climate",
+      "title": "متریال بازسازی مشهد: راهنمای انتخاب برای گرما و سرما — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__renovation-materials-mashhad-climate__4aab37ab.html",
+      "savedMarkdownPath": "pages/markdown/blog__renovation-materials-mashhad-climate__4aab37ab.md"
+    },
+    {
+      "id": "blog__renovation-permits-mashhad__a5ae259d",
+      "url": "https://azhman.company/blog/renovation-permits-mashhad",
+      "path": "/blog/renovation-permits-mashhad",
+      "title": "مجوزهای لازم برای بازسازی ساختمان در مشهد: راهنمای کامل اخذ مجوز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__renovation-permits-mashhad__a5ae259d.html",
+      "savedMarkdownPath": "pages/markdown/blog__renovation-permits-mashhad__a5ae259d.md"
+    },
+    {
+      "id": "blog__renovation-types-services-mashhad__62b16d01",
+      "url": "https://azhman.company/blog/renovation-types-services-mashhad",
+      "path": "/blog/renovation-types-services-mashhad",
+      "title": "بازسازی ساختمان چیست؟ آشنایی با انواع بازسازی و خدمات هلدینگ آژمان در مشهد — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__renovation-types-services-mashhad__62b16d01.html",
+      "savedMarkdownPath": "pages/markdown/blog__renovation-types-services-mashhad__62b16d01.md"
+    },
+    {
+      "id": "blog__traditional-renovation-torghabeh__7b7ba16c",
+      "url": "https://azhman.company/blog/traditional-renovation-torghabeh",
+      "path": "/blog/traditional-renovation-torghabeh",
+      "title": "بازسازی با حفظ بافت سنتی: تجربه‌های موفق آژمان در خانه‌های قدیمی طرقبه — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__traditional-renovation-torghabeh__7b7ba16c.html",
+      "savedMarkdownPath": "pages/markdown/blog__traditional-renovation-torghabeh__7b7ba16c.md"
+    },
+    {
+      "id": "blog__villa-renovation-challenge-torghabeh-moisture__6719078d",
+      "url": "https://azhman.company/blog/villa-renovation-challenge-torghabeh-moisture",
+      "path": "/blog/villa-renovation-challenge-torghabeh-moisture",
+      "title": "چالش بازسازی ویلا طرقبه: حل مشکل رطوبت و نم — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__villa-renovation-challenge-torghabeh-moisture__6719078d.html",
+      "savedMarkdownPath": "pages/markdown/blog__villa-renovation-challenge-torghabeh-moisture__6719078d.md"
+    },
+    {
+      "id": "blog__villa-renovation-shandiz__eb50a4f6",
+      "url": "https://azhman.company/blog/villa-renovation-shandiz",
+      "path": "/blog/villa-renovation-shandiz",
+      "title": "رازهای بازسازی ویلا در شاندیز برای آخر هفته‌های رویایی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__villa-renovation-shandiz__eb50a4f6.html",
+      "savedMarkdownPath": "pages/markdown/blog__villa-renovation-shandiz__eb50a4f6.md"
+    },
+    {
+      "id": "blog__villa-renovation-torghabeh-ecolodge__67b9cca2",
+      "url": "https://azhman.company/blog/villa-renovation-torghabeh-ecolodge",
+      "path": "/blog/villa-renovation-torghabeh-ecolodge",
+      "title": "بازسازی ویلا در طرقبه: چگونه ویلای طرقبه خود را به یک اقامتگاه بوم‌گردی لوکس تبدیل کنیم؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__villa-renovation-torghabeh-ecolodge__67b9cca2.html",
+      "savedMarkdownPath": "pages/markdown/blog__villa-renovation-torghabeh-ecolodge__67b9cca2.md"
+    },
+    {
+      "id": "blog__villa-renovation-torghabeh-shandiz__34b2c2b6",
+      "url": "https://azhman.company/blog/villa-renovation-torghabeh-shandiz",
+      "path": "/blog/villa-renovation-torghabeh-shandiz",
+      "title": "بازسازی خانه‌های ویلایی قدیمی در طرقبه و شاندیز: حفظ اصالت با نگاهی نو — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__villa-renovation-torghabeh-shandiz__34b2c2b6.html",
+      "savedMarkdownPath": "pages/markdown/blog__villa-renovation-torghabeh-shandiz__34b2c2b6.md"
+    },
+    {
+      "id": "blog__vr-architecture-benefits__343263d8",
+      "url": "https://azhman.company/blog/vr-architecture-benefits",
+      "path": "/blog/vr-architecture-benefits",
+      "title": "مزیت کلیدی استفاده از واقعیت مجازی برای نمایش طراحی ساختمان (که معماران باید بدانند) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__vr-architecture-benefits__343263d8.html",
+      "savedMarkdownPath": "pages/markdown/blog__vr-architecture-benefits__343263d8.md"
+    },
+    {
+      "id": "blog__vr-architecture-marketing-guide__401baf66",
+      "url": "https://azhman.company/blog/vr-architecture-marketing-guide",
+      "path": "/blog/vr-architecture-marketing-guide",
+      "title": "راهنمای جامع استفاده از واقعیت مجازی در ارائه و بازاریابی پروژه‌های معماری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__vr-architecture-marketing-guide__401baf66.html",
+      "savedMarkdownPath": "pages/markdown/blog__vr-architecture-marketing-guide__401baf66.md"
+    },
+    {
+      "id": "blog__vr-building-review__ecda7ee2",
+      "url": "https://azhman.company/blog/vr-building-review",
+      "path": "/blog/vr-building-review",
+      "title": "واقعیت مجازی در بازبینی طراحی ساختمان: چگونه VR فرآیند تایید را تسریع می‌بخشد؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__vr-building-review__ecda7ee2.html",
+      "savedMarkdownPath": "pages/markdown/blog__vr-building-review__ecda7ee2.md"
+    },
+    {
+      "id": "blog__vr-cost-roi-architecture__3c1a5de4",
+      "url": "https://azhman.company/blog/vr-cost-roi-architecture",
+      "path": "/blog/vr-cost-roi-architecture",
+      "title": "هزینه و ROI واقعیت مجازی در معماری: آیا سرمایه‌گذاری در VR توجیه اقتصادی دارد؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__vr-cost-roi-architecture__3c1a5de4.html",
+      "savedMarkdownPath": "pages/markdown/blog__vr-cost-roi-architecture__3c1a5de4.md"
+    },
+    {
+      "id": "blog__vr-experience-architecture__5638c078",
+      "url": "https://azhman.company/blog/vr-experience-architecture",
+      "path": "/blog/vr-experience-architecture",
+      "title": "مراحل تولید یک تجربه واقعیت مجازی جذاب و موثر برای پروژه‌های معماری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__vr-experience-architecture__5638c078.html",
+      "savedMarkdownPath": "pages/markdown/blog__vr-experience-architecture__5638c078.md"
+    },
+    {
+      "id": "blog__vr-future-architecture__b034b769",
+      "url": "https://azhman.company/blog/vr-future-architecture",
+      "path": "/blog/vr-future-architecture",
+      "title": "آیا واقعیت مجازی آینده ارائه طرح‌های معماری است؟ بررسی مزایا و چالش‌ها — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__vr-future-architecture__b034b769.html",
+      "savedMarkdownPath": "pages/markdown/blog__vr-future-architecture__b034b769.md"
+    },
+    {
+      "id": "blog__vr-success-stories__5dde51fb",
+      "url": "https://azhman.company/blog/vr-success-stories",
+      "path": "/blog/vr-success-stories",
+      "title": "داستان‌های موفقیت: شرکت‌های ساختمانی چگونه با استفاده از واقعیت مجازی فروش خود را افزایش دادند — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__vr-success-stories__5dde51fb.html",
+      "savedMarkdownPath": "pages/markdown/blog__vr-success-stories__5dde51fb.md"
+    },
+    {
+      "id": "blog__vr-vs-traditional-architecture__af24815b",
+      "url": "https://azhman.company/blog/vr-vs-traditional-architecture",
+      "path": "/blog/vr-vs-traditional-architecture",
+      "title": "مقایسه روش‌های سنتی و واقعیت مجازی در ارائه طرح‌های معماری: کدام یک موثرتر است؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__vr-vs-traditional-architecture__af24815b.html",
+      "savedMarkdownPath": "pages/markdown/blog__vr-vs-traditional-architecture__af24815b.md"
+    },
+    {
+      "id": "blog__what-is-concrete__eac1ae11",
+      "url": "https://azhman.company/blog/what-is-concrete",
+      "path": "/blog/what-is-concrete",
+      "title": "بتن چیست؟ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__what-is-concrete__eac1ae11.html",
+      "savedMarkdownPath": "pages/markdown/blog__what-is-concrete__eac1ae11.md"
+    },
+    {
+      "id": "blog__yard-balcony-renovation-mashhad__631f54ee",
+      "url": "https://azhman.company/blog/yard-balcony-renovation-mashhad",
+      "path": "/blog/yard-balcony-renovation-mashhad",
+      "title": "بازسازی حیاط و بالکن در مشهد: خلق فضایی دنج و کاربردی در آپارتمان و ویلا — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/blog__yard-balcony-renovation-mashhad__631f54ee.html",
+      "savedMarkdownPath": "pages/markdown/blog__yard-balcony-renovation-mashhad__631f54ee.md"
+    },
+    {
+      "id": "building-construction-with-a-3d-printer__947fa7e6",
+      "url": "https://azhman.company/building-construction-with-a-3d-printer",
+      "path": "/building-construction-with-a-3d-printer",
+      "title": "ساختمان‌سازی با چاپگر سه‌بعدی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/building-construction-with-a-3d-printer__947fa7e6.html",
+      "savedMarkdownPath": "pages/markdown/building-construction-with-a-3d-printer__947fa7e6.md"
+    },
+    {
+      "id": "building-information-modeling__b78a06e0",
+      "url": "https://azhman.company/building-information-modeling",
+      "path": "/building-information-modeling",
+      "title": "مدل‌سازی اطلاعات ساختمان BIM — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/building-information-modeling__b78a06e0.html",
+      "savedMarkdownPath": "pages/markdown/building-information-modeling__b78a06e0.md"
+    },
+    {
+      "id": "building-intelligence__6dd344ae",
+      "url": "https://azhman.company/building-intelligence",
+      "path": "/building-intelligence",
+      "title": "نصب سیستم‌های هوشمندسازی ساختمان (BMS) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/building-intelligence__6dd344ae.html",
+      "savedMarkdownPath": "pages/markdown/building-intelligence__6dd344ae.md"
+    },
+    {
+      "id": "category-projects__commercial-and-administrative-projects__a8c11d2c",
+      "url": "https://azhman.company/category-projects/commercial-and-administrative-projects",
+      "path": "/category-projects/commercial-and-administrative-projects",
+      "title": "پروژه‌های تجاری و اداری - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/category-projects__commercial-and-administrative-projects__a8c11d2c.html",
+      "savedMarkdownPath": "pages/markdown/category-projects__commercial-and-administrative-projects__a8c11d2c.md"
+    },
+    {
+      "id": "category-projects__completed-projects__c405ca2d",
+      "url": "https://azhman.company/category-projects/completed-projects",
+      "path": "/category-projects/completed-projects",
+      "title": "پروژه‌های تکمیل شده - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/category-projects__completed-projects__c405ca2d.html",
+      "savedMarkdownPath": "pages/markdown/category-projects__completed-projects__c405ca2d.md"
+    },
+    {
+      "id": "category-projects__construction-projects__e4710583",
+      "url": "https://azhman.company/category-projects/construction-projects",
+      "path": "/category-projects/construction-projects",
+      "title": "پروژه‌های ساختمانی - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/category-projects__construction-projects__e4710583.html",
+      "savedMarkdownPath": "pages/markdown/category-projects__construction-projects__e4710583.md"
+    },
+    {
+      "id": "category-projects__designed-projects__0108bcab",
+      "url": "https://azhman.company/category-projects/designed-projects",
+      "path": "/category-projects/designed-projects",
+      "title": "پروژه‌های طراحی شده - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/category-projects__designed-projects__0108bcab.html",
+      "savedMarkdownPath": "pages/markdown/category-projects__designed-projects__0108bcab.md"
+    },
+    {
+      "id": "category-projects__non-construction-projects__7d30bb03",
+      "url": "https://azhman.company/category-projects/non-construction-projects",
+      "path": "/category-projects/non-construction-projects",
+      "title": "پروژه‌های غیرساختمانی - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/category-projects__non-construction-projects__7d30bb03.html",
+      "savedMarkdownPath": "pages/markdown/category-projects__non-construction-projects__7d30bb03.md"
+    },
+    {
+      "id": "category-projects__projects-in-progress__1e43249c",
+      "url": "https://azhman.company/category-projects/projects-in-progress",
+      "path": "/category-projects/projects-in-progress",
+      "title": "پروژه‌های در حال اجرا - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/category-projects__projects-in-progress__1e43249c.html",
+      "savedMarkdownPath": "pages/markdown/category-projects__projects-in-progress__1e43249c.md"
+    },
+    {
+      "id": "category-projects__residential-projects__22cfb1de",
+      "url": "https://azhman.company/category-projects/residential-projects",
+      "path": "/category-projects/residential-projects",
+      "title": "پروژه‌های مسکونی - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/category-projects__residential-projects__22cfb1de.html",
+      "savedMarkdownPath": "pages/markdown/category-projects__residential-projects__22cfb1de.md"
+    },
+    {
+      "id": "checking-the-legal-and-safety-requirements-of-the-project__c7d39da7",
+      "url": "https://azhman.company/checking-the-legal-and-safety-requirements-of-the-project",
+      "path": "/checking-the-legal-and-safety-requirements-of-the-project",
+      "title": "بررسی الزامات قانونی و ایمنی پروژه — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/checking-the-legal-and-safety-requirements-of-the-project__c7d39da7.html",
+      "savedMarkdownPath": "pages/markdown/checking-the-legal-and-safety-requirements-of-the-project__c7d39da7.md"
+    },
+    {
+      "id": "compilation-of-engineering-contracts__32bafb08",
+      "url": "https://azhman.company/compilation-of-engineering-contracts",
+      "path": "/compilation-of-engineering-contracts",
+      "title": "تدوین قراردادهای مهندسی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/compilation-of-engineering-contracts__32bafb08.html",
+      "savedMarkdownPath": "pages/markdown/compilation-of-engineering-contracts__32bafb08.md"
+    },
+    {
+      "id": "construction-engineering-consulting__d7318ad7",
+      "url": "https://azhman.company/construction-engineering-consulting",
+      "path": "/construction-engineering-consulting",
+      "title": "مشاوره مهندسی ساختمان — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/construction-engineering-consulting__d7318ad7.html",
+      "savedMarkdownPath": "pages/markdown/construction-engineering-consulting__d7318ad7.md"
+    },
+    {
+      "id": "construction-of-high-towers__4feb3a4e",
+      "url": "https://azhman.company/construction-of-high-towers",
+      "path": "/construction-of-high-towers",
+      "title": "ساخت برج‌های مرتفع — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/construction-of-high-towers__4feb3a4e.html",
+      "savedMarkdownPath": "pages/markdown/construction-of-high-towers__4feb3a4e.md"
+    },
+    {
+      "id": "construction-of-residential-commercial-and-office-projects__213b2427",
+      "url": "https://azhman.company/construction-of-residential-commercial-and-office-projects",
+      "path": "/construction-of-residential-commercial-and-office-projects",
+      "title": "ساخت پروژه‌های مسکونی، تجاری و اداری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/construction-of-residential-commercial-and-office-projects__213b2427.html",
+      "savedMarkdownPath": "pages/markdown/construction-of-residential-commercial-and-office-projects__213b2427.md"
+    },
+    {
+      "id": "contact__662f6018",
+      "url": "https://azhman.company/contact",
+      "path": "/contact",
+      "title": "تماس با ما — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/contact__662f6018.html",
+      "savedMarkdownPath": "pages/markdown/contact__662f6018.md"
+    },
+    {
+      "id": "contact__employment__89e602bd",
+      "url": "https://azhman.company/contact/employment",
+      "path": "/contact/employment",
+      "title": "استخدام — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/contact__employment__89e602bd.html",
+      "savedMarkdownPath": "pages/markdown/contact__employment__89e602bd.md"
+    },
+    {
+      "id": "contract-management__f1b824a2",
+      "url": "https://azhman.company/contract-management",
+      "path": "/contract-management",
+      "title": "مدیریت پیمان — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/contract-management__f1b824a2.html",
+      "savedMarkdownPath": "pages/markdown/contract-management__f1b824a2.md"
+    },
+    {
+      "id": "customer-satisfaction__0662cf9b",
+      "url": "https://azhman.company/customer-satisfaction",
+      "path": "/customer-satisfaction",
+      "title": "رضایت مشتریان — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/customer-satisfaction__0662cf9b.html",
+      "savedMarkdownPath": "pages/markdown/customer-satisfaction__0662cf9b.md"
+    },
+    {
+      "id": "design-and-consulting__127c45a6",
+      "url": "https://azhman.company/design-and-consulting",
+      "path": "/design-and-consulting",
+      "title": "طراحی و مشاوره — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/design-and-consulting__127c45a6.html",
+      "savedMarkdownPath": "pages/markdown/design-and-consulting__127c45a6.md"
+    },
+    {
+      "id": "design-and-implementation-of-sustainable-projects__0505faa2",
+      "url": "https://azhman.company/design-and-implementation-of-sustainable-projects",
+      "path": "/design-and-implementation-of-sustainable-projects",
+      "title": "طراحی و اجرای پروژه‌های پایدار — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/design-and-implementation-of-sustainable-projects__0505faa2.html",
+      "savedMarkdownPath": "pages/markdown/design-and-implementation-of-sustainable-projects__0505faa2.md"
+    },
+    {
+      "id": "design-of-metal-and-concrete-structures__e9a5262a",
+      "url": "https://azhman.company/design-of-metal-and-concrete-structures",
+      "path": "/design-of-metal-and-concrete-structures",
+      "title": "طراحی سازه‌های فلزی و بتنی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/design-of-metal-and-concrete-structures__e9a5262a.html",
+      "savedMarkdownPath": "pages/markdown/design-of-metal-and-concrete-structures__e9a5262a.md"
+    },
+    {
+      "id": "documentation-of-projects__86a63219",
+      "url": "https://azhman.company/documentation-of-projects",
+      "path": "/documentation-of-projects",
+      "title": "مستندسازی پروژه‌ها — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/documentation-of-projects__86a63219.html",
+      "savedMarkdownPath": "pages/markdown/documentation-of-projects__86a63219.md"
+    },
+    {
+      "id": "earthquake-resistance-design__4009eb9b",
+      "url": "https://azhman.company/earthquake-resistance-design",
+      "path": "/earthquake-resistance-design",
+      "title": "طراحی مقاوم‌سازی در برابر زلزله — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/earthquake-resistance-design__4009eb9b.html",
+      "savedMarkdownPath": "pages/markdown/earthquake-resistance-design__4009eb9b.md"
+    },
+    {
+      "id": "estimating-costs-and-preparing-financial-proposals__d4408e0d",
+      "url": "https://azhman.company/estimating-costs-and-preparing-financial-proposals",
+      "path": "/estimating-costs-and-preparing-financial-proposals",
+      "title": "برآورد هزینه‌ها و تهیه پیشنهادات مالی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/estimating-costs-and-preparing-financial-proposals__d4408e0d.html",
+      "savedMarkdownPath": "pages/markdown/estimating-costs-and-preparing-financial-proposals__d4408e0d.md"
+    },
+    {
+      "id": "excellent-supervision-and-workshop__0b571166",
+      "url": "https://azhman.company/excellent-supervision-and-workshop",
+      "path": "/excellent-supervision-and-workshop",
+      "title": "نظارت عالیه و کارگاهی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/excellent-supervision-and-workshop__0b571166.html",
+      "savedMarkdownPath": "pages/markdown/excellent-supervision-and-workshop__0b571166.md"
+    },
+    {
+      "id": "facade-design__06ddd00d",
+      "url": "https://azhman.company/facade-design",
+      "path": "/facade-design",
+      "title": "طراحی نما — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/facade-design__06ddd00d.html",
+      "savedMarkdownPath": "pages/markdown/facade-design__06ddd00d.md"
+    },
+    {
+      "id": "feasibility-studies-and-economic-justification__578763b3",
+      "url": "https://azhman.company/feasibility-studies-and-economic-justification",
+      "path": "/feasibility-studies-and-economic-justification",
+      "title": "مطالعات امکان‌سنجی و توجیه اقتصادی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/feasibility-studies-and-economic-justification__578763b3.html",
+      "savedMarkdownPath": "pages/markdown/feasibility-studies-and-economic-justification__578763b3.md"
+    },
+    {
+      "id": "follow-up-of-municipal-affairs-and-engineering-system__83def1f6",
+      "url": "https://azhman.company/follow-up-of-municipal-affairs-and-engineering-system",
+      "path": "/follow-up-of-municipal-affairs-and-engineering-system",
+      "title": "پیگیری امور شهرداری و نظام مهندسی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/follow-up-of-municipal-affairs-and-engineering-system__83def1f6.html",
+      "savedMarkdownPath": "pages/markdown/follow-up-of-municipal-affairs-and-engineering-system__83def1f6.md"
+    },
+    {
+      "id": "implementation-of-concrete-and-metal-structures__5971f39e",
+      "url": "https://azhman.company/implementation-of-concrete-and-metal-structures",
+      "path": "/implementation-of-concrete-and-metal-structures",
+      "title": "اجرای سازه‌های بتنی و فلزی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/implementation-of-concrete-and-metal-structures__5971f39e.html",
+      "savedMarkdownPath": "pages/markdown/implementation-of-concrete-and-metal-structures__5971f39e.md"
+    },
+    {
+      "id": "implementation-of-electrification-and-lighting-systems__06fc1ad1",
+      "url": "https://azhman.company/implementation-of-electrification-and-lighting-systems",
+      "path": "/implementation-of-electrification-and-lighting-systems",
+      "title": "اجرای سیستم‌های برق‌کشی و روشنایی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/implementation-of-electrification-and-lighting-systems__06fc1ad1.html",
+      "savedMarkdownPath": "pages/markdown/implementation-of-electrification-and-lighting-systems__06fc1ad1.md"
+    },
+    {
+      "id": "implementation-of-lsf-technology-light-steel-structures__5df4c1d5",
+      "url": "https://azhman.company/implementation-of-lsf-technology-light-steel-structures",
+      "path": "/implementation-of-lsf-technology-light-steel-structures",
+      "title": "اجرای تکنولوژی LSF (سازه‌های سبک فولادی) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/implementation-of-lsf-technology-light-steel-structures__5df4c1d5.html",
+      "savedMarkdownPath": "pages/markdown/implementation-of-lsf-technology-light-steel-structures__5df4c1d5.md"
+    },
+    {
+      "id": "implementation-of-metal-framework-and-welding__dfb23489",
+      "url": "https://azhman.company/implementation-of-metal-framework-and-welding",
+      "path": "/implementation-of-metal-framework-and-welding",
+      "title": "اجرای اسکلت فلزی و جوشکاری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/implementation-of-metal-framework-and-welding__dfb23489.html",
+      "savedMarkdownPath": "pages/markdown/implementation-of-metal-framework-and-welding__dfb23489.md"
+    },
+    {
+      "id": "implementation-of-prefabricated-modular-buildings__2859eb98",
+      "url": "https://azhman.company/implementation-of-prefabricated-modular-buildings",
+      "path": "/implementation-of-prefabricated-modular-buildings",
+      "title": "اجرای ساختمان‌های پیش‌ساخته مدولار — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/implementation-of-prefabricated-modular-buildings__2859eb98.html",
+      "savedMarkdownPath": "pages/markdown/implementation-of-prefabricated-modular-buildings__2859eb98.md"
+    },
+    {
+      "id": "implementation-of-reconstruction-and-renovation-projects__c6e18f7c",
+      "url": "https://azhman.company/implementation-of-reconstruction-and-renovation-projects",
+      "path": "/implementation-of-reconstruction-and-renovation-projects",
+      "title": "اجرای پروژه‌های بازسازی و نوسازی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/implementation-of-reconstruction-and-renovation-projects__c6e18f7c.html",
+      "savedMarkdownPath": "pages/markdown/implementation-of-reconstruction-and-renovation-projects__c6e18f7c.md"
+    },
+    {
+      "id": "implementation-of-wall-and-ceiling__283bfe72",
+      "url": "https://azhman.company/implementation-of-wall-and-ceiling",
+      "path": "/implementation-of-wall-and-ceiling",
+      "title": "اجرای دیوارچینی و سقف — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/implementation-of-wall-and-ceiling__283bfe72.html",
+      "savedMarkdownPath": "pages/markdown/implementation-of-wall-and-ceiling__283bfe72.md"
+    },
+    {
+      "id": "implementation-of-water-supply-and-sewage-systems__0ef34f4c",
+      "url": "https://azhman.company/implementation-of-water-supply-and-sewage-systems",
+      "path": "/implementation-of-water-supply-and-sewage-systems",
+      "title": "اجرای سیستم‌های آبرسانی و فاضلاب — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/implementation-of-water-supply-and-sewage-systems__0ef34f4c.html",
+      "savedMarkdownPath": "pages/markdown/implementation-of-water-supply-and-sewage-systems__0ef34f4c.md"
+    },
+    {
+      "id": "import-of-advanced-construction-equipment__244f9506",
+      "url": "https://azhman.company/import-of-advanced-construction-equipment",
+      "path": "/import-of-advanced-construction-equipment",
+      "title": "واردات تجهیزات پیشرفته ساختمانی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/import-of-advanced-construction-equipment__244f9506.html",
+      "savedMarkdownPath": "pages/markdown/import-of-advanced-construction-equipment__244f9506.md"
+    },
+    {
+      "id": "installation-and-implementation-of-prefabricated-panels__f3abdbc4",
+      "url": "https://azhman.company/installation-and-implementation-of-prefabricated-panels",
+      "path": "/installation-and-implementation-of-prefabricated-panels",
+      "title": "نصب و اجرای پنل‌های پیش‌ساخته — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/installation-and-implementation-of-prefabricated-panels__f3abdbc4.html",
+      "savedMarkdownPath": "pages/markdown/installation-and-implementation-of-prefabricated-panels__f3abdbc4.md"
+    },
+    {
+      "id": "installation-and-operation-of-power-generators__863f7675",
+      "url": "https://azhman.company/installation-and-operation-of-power-generators",
+      "path": "/installation-and-operation-of-power-generators",
+      "title": "نصب و راه‌اندازی ژنراتورهای برق — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/installation-and-operation-of-power-generators__863f7675.html",
+      "savedMarkdownPath": "pages/markdown/installation-and-operation-of-power-generators__863f7675.md"
+    },
+    {
+      "id": "installation-of-elevators-and-escalators__96ac27f2",
+      "url": "https://azhman.company/installation-of-elevators-and-escalators",
+      "path": "/installation-of-elevators-and-escalators",
+      "title": "نصب آسانسور و پله برقی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/installation-of-elevators-and-escalators__96ac27f2.html",
+      "savedMarkdownPath": "pages/markdown/installation-of-elevators-and-escalators__96ac27f2.md"
+    },
+    {
+      "id": "interior-and-exterior-design-and-renovation__3823fb79",
+      "url": "https://azhman.company/interior-and-exterior-design-and-renovation",
+      "path": "/interior-and-exterior-design-and-renovation",
+      "title": "طراحی و اجرای بازسازی داخلی و خارجی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/interior-and-exterior-design-and-renovation__3823fb79.html",
+      "savedMarkdownPath": "pages/markdown/interior-and-exterior-design-and-renovation__3823fb79.md"
+    },
+    {
+      "id": "interior-design__e2a50201",
+      "url": "https://azhman.company/interior-design",
+      "path": "/interior-design",
+      "title": "طراحی داخلی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/interior-design__e2a50201.html",
+      "savedMarkdownPath": "pages/markdown/interior-design__e2a50201.md"
+    },
+    {
+      "id": "landscaping-and-green-space-design__7a7ba735",
+      "url": "https://azhman.company/landscaping-and-green-space-design",
+      "path": "/landscaping-and-green-space-design",
+      "title": "طراحی محوطه و فضای سبز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/landscaping-and-green-space-design__7a7ba735.html",
+      "savedMarkdownPath": "pages/markdown/landscaping-and-green-space-design__7a7ba735.md"
+    },
+    {
+      "id": "landscaping-and-open-space__32355384",
+      "url": "https://azhman.company/landscaping-and-open-space",
+      "path": "/landscaping-and-open-space",
+      "title": "محوطه‌سازی و فضای باز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/landscaping-and-open-space__32355384.html",
+      "savedMarkdownPath": "pages/markdown/landscaping-and-open-space__32355384.md"
+    },
+    {
+      "id": "legal-advice-for-construction-projects__8f36e44e",
+      "url": "https://azhman.company/legal-advice-for-construction-projects",
+      "path": "/legal-advice-for-construction-projects",
+      "title": "مشاوره حقوقی پروژه‌های عمرانی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/legal-advice-for-construction-projects__8f36e44e.html",
+      "savedMarkdownPath": "pages/markdown/legal-advice-for-construction-projects__8f36e44e.md"
+    },
+    {
+      "id": "legal-and-administrative-services__dd575fec",
+      "url": "https://azhman.company/legal-and-administrative-services",
+      "path": "/legal-and-administrative-services",
+      "title": "خدمات حقوقی و اداری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/legal-and-administrative-services__dd575fec.html",
+      "savedMarkdownPath": "pages/markdown/legal-and-administrative-services__dd575fec.md"
+    },
+    {
+      "id": "maintenance-and-operation__cf1d6b5d",
+      "url": "https://azhman.company/maintenance-and-operation",
+      "path": "/maintenance-and-operation",
+      "title": "نگهداری و بهره‌برداری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/maintenance-and-operation__cf1d6b5d.html",
+      "savedMarkdownPath": "pages/markdown/maintenance-and-operation__cf1d6b5d.md"
+    },
+    {
+      "id": "maintenance-of-mechanical-and-electrical-facilities__46a0d73e",
+      "url": "https://azhman.company/maintenance-of-mechanical-and-electrical-facilities",
+      "path": "/maintenance-of-mechanical-and-electrical-facilities",
+      "title": "نگهداری تأسیسات مکانیکی و الکتریکی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/maintenance-of-mechanical-and-electrical-facilities__46a0d73e.html",
+      "savedMarkdownPath": "pages/markdown/maintenance-of-mechanical-and-electrical-facilities__46a0d73e.md"
+    },
+    {
+      "id": "maintenance-of-office-and-commercial-buildings__b8958473",
+      "url": "https://azhman.company/maintenance-of-office-and-commercial-buildings",
+      "path": "/maintenance-of-office-and-commercial-buildings",
+      "title": "تعمیر و نگهداری ساختمان‌های اداری و تجاری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/maintenance-of-office-and-commercial-buildings__b8958473.html",
+      "savedMarkdownPath": "pages/markdown/maintenance-of-office-and-commercial-buildings__b8958473.md"
+    },
+    {
+      "id": "management-of-human-resources-and-equipment__73ccb96e",
+      "url": "https://azhman.company/management-of-human-resources-and-equipment",
+      "path": "/management-of-human-resources-and-equipment",
+      "title": "مدیریت منابع انسانی و تجهیزات — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/management-of-human-resources-and-equipment__73ccb96e.html",
+      "savedMarkdownPath": "pages/markdown/management-of-human-resources-and-equipment__73ccb96e.md"
+    },
+    {
+      "id": "management-of-supply-of-materials-and-equipment__e0bd082b",
+      "url": "https://azhman.company/management-of-supply-of-materials-and-equipment",
+      "path": "/management-of-supply-of-materials-and-equipment",
+      "title": "مدیریت تأمین مصالح و تجهیزات — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/management-of-supply-of-materials-and-equipment__e0bd082b.html",
+      "savedMarkdownPath": "pages/markdown/management-of-supply-of-materials-and-equipment__e0bd082b.md"
+    },
+    {
+      "id": "mechanical-and-electrical__de2fcfe7",
+      "url": "https://azhman.company/mechanical-and-electrical",
+      "path": "/mechanical-and-electrical",
+      "title": "تأسیسات مکانیکی و الکتریکی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/mechanical-and-electrical__de2fcfe7.html",
+      "savedMarkdownPath": "pages/markdown/mechanical-and-electrical__de2fcfe7.md"
+    },
+    {
+      "id": "negotiating-and-concluding-domestic-and-international-contracts__76187156",
+      "url": "https://azhman.company/negotiating-and-concluding-domestic-and-international-contracts",
+      "path": "/negotiating-and-concluding-domestic-and-international-contracts",
+      "title": "مذاکره و انعقاد قراردادهای داخلی و بین‌المللی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/negotiating-and-concluding-domestic-and-international-contracts__76187156.html",
+      "savedMarkdownPath": "pages/markdown/negotiating-and-concluding-domestic-and-international-contracts__76187156.md"
+    },
+    {
+      "id": "new-technologies__65292f77",
+      "url": "https://azhman.company/new-technologies",
+      "path": "/new-technologies",
+      "title": "فناوری‌های نوین در ساخت‌وساز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/new-technologies__65292f77.html",
+      "savedMarkdownPath": "pages/markdown/new-technologies__65292f77.md"
+    },
+    {
+      "id": "obtaining-building-permits__cef4b826",
+      "url": "https://azhman.company/obtaining-building-permits",
+      "path": "/obtaining-building-permits",
+      "title": "اخذ مجوزهای ساختمانی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/obtaining-building-permits__cef4b826.html",
+      "savedMarkdownPath": "pages/markdown/obtaining-building-permits__cef4b826.md"
+    },
+    {
+      "id": "optimizing-energy-consumption__53448648",
+      "url": "https://azhman.company/optimizing-energy-consumption",
+      "path": "/optimizing-energy-consumption",
+      "title": "بهینه‌سازی مصرف انرژی در ساختمان — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/optimizing-energy-consumption__53448648.html",
+      "savedMarkdownPath": "pages/markdown/optimizing-energy-consumption__53448648.md"
+    },
+    {
+      "id": "participation-in-public-and-private-tenders__5083f3e5",
+      "url": "https://azhman.company/participation-in-public-and-private-tenders",
+      "path": "/participation-in-public-and-private-tenders",
+      "title": "شرکت در مناقصات دولتی و خصوصی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/participation-in-public-and-private-tenders__5083f3e5.html",
+      "savedMarkdownPath": "pages/markdown/participation-in-public-and-private-tenders__5083f3e5.md"
+    },
+    {
+      "id": "prepare-and-adjust-the-project-schedule__68529dd2",
+      "url": "https://azhman.company/prepare-and-adjust-the-project-schedule",
+      "path": "/prepare-and-adjust-the-project-schedule",
+      "title": "تهیه و تنظیم برنامه‌زمان‌بندی پروژه — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/prepare-and-adjust-the-project-schedule__68529dd2.html",
+      "savedMarkdownPath": "pages/markdown/prepare-and-adjust-the-project-schedule__68529dd2.md"
+    },
+    {
+      "id": "project-control__2d2bf075",
+      "url": "https://azhman.company/project-control",
+      "path": "/project-control",
+      "title": "کنترل پروژه — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/project-control__2d2bf075.html",
+      "savedMarkdownPath": "pages/markdown/project-control__2d2bf075.md"
+    },
+    {
+      "id": "project-cost-management__af67cd68",
+      "url": "https://azhman.company/project-cost-management",
+      "path": "/project-cost-management",
+      "title": "مدیریت هزینه‌های پروژه — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/project-cost-management__af67cd68.html",
+      "savedMarkdownPath": "pages/markdown/project-cost-management__af67cd68.md"
+    },
+    {
+      "id": "project-management-and-contracting__367e29c6",
+      "url": "https://azhman.company/project-management-and-contracting",
+      "path": "/project-management-and-contracting",
+      "title": "مدیریت پروژه و پیمانکاری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/project-management-and-contracting__367e29c6.html",
+      "savedMarkdownPath": "pages/markdown/project-management-and-contracting__367e29c6.md"
+    },
+    {
+      "id": "project-order__67643547",
+      "url": "https://azhman.company/project-order",
+      "path": "/project-order",
+      "title": "سفارش پروژه — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/project-order__67643547.html",
+      "savedMarkdownPath": "pages/markdown/project-order__67643547.md"
+    },
+    {
+      "id": "projects__4fdca6c9",
+      "url": "https://azhman.company/projects",
+      "path": "/projects",
+      "title": "پروژه‌ها - هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__4fdca6c9.html",
+      "savedMarkdownPath": "pages/markdown/projects__4fdca6c9.md"
+    },
+    {
+      "id": "projects__azhman-3__4bad5845",
+      "url": "https://azhman.company/projects/azhman-3",
+      "path": "/projects/azhman-3",
+      "title": "آژمان۳: پروژه ساختمان مسکونی سجادیه ۶۱ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__azhman-3__4bad5845.html",
+      "savedMarkdownPath": "pages/markdown/projects__azhman-3__4bad5845.md"
+    },
+    {
+      "id": "projects__azhman-4__edb8d677",
+      "url": "https://azhman.company/projects/azhman-4",
+      "path": "/projects/azhman-4",
+      "title": "آژمان ۴: پروژه ساختمان مسکونی به مالکیت آقای هنری صدف ۲۲ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__azhman-4__edb8d677.html",
+      "savedMarkdownPath": "pages/markdown/projects__azhman-4__edb8d677.md"
+    },
+    {
+      "id": "projects__azhman-5__871185bd",
+      "url": "https://azhman.company/projects/azhman-5",
+      "path": "/projects/azhman-5",
+      "title": "آژمان ۵: پروژه باغ ویلا آقای بنایی واقع در شاهنامه ۱۸ مجتمع شقایق — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__azhman-5__871185bd.html",
+      "savedMarkdownPath": "pages/markdown/projects__azhman-5__871185bd.md"
+    },
+    {
+      "id": "projects__azhman-6__ab7c43fd",
+      "url": "https://azhman.company/projects/azhman-6",
+      "path": "/projects/azhman-6",
+      "title": "پروژه آژمان 6: واقع در قاسم آباد شهرک رازی مالکیت آقای توکلی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__azhman-6__ab7c43fd.html",
+      "savedMarkdownPath": "pages/markdown/projects__azhman-6__ab7c43fd.md"
+    },
+    {
+      "id": "projects__azhman-7__3d93aeb7",
+      "url": "https://azhman.company/projects/azhman-7",
+      "path": "/projects/azhman-7",
+      "title": "آژمان۷: پروژه ساختمان مسکونی سجادیه ۴۸ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__azhman-7__3d93aeb7.html",
+      "savedMarkdownPath": "pages/markdown/projects__azhman-7__3d93aeb7.md"
+    },
+    {
+      "id": "projects__azhman-8__d853bf9e",
+      "url": "https://azhman.company/projects/azhman-8",
+      "path": "/projects/azhman-8",
+      "title": "آژمان ۸: پروژه فلاحی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__azhman-8__d853bf9e.html",
+      "savedMarkdownPath": "pages/markdown/projects__azhman-8__d853bf9e.md"
+    },
+    {
+      "id": "projects__bedroom-interior-lighting-design__f4db368c",
+      "url": "https://azhman.company/projects/bedroom-interior-lighting-design",
+      "path": "/projects/bedroom-interior-lighting-design",
+      "title": "پروژه طراحی داخلی اتاق خواب با نورپردازی خاص — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__bedroom-interior-lighting-design__f4db368c.html",
+      "savedMarkdownPath": "pages/markdown/projects__bedroom-interior-lighting-design__f4db368c.md"
+    },
+    {
+      "id": "projects__doctors-building-43__82026beb",
+      "url": "https://azhman.company/projects/doctors-building-43",
+      "path": "/projects/doctors-building-43",
+      "title": "آژمان ۱: پروژه ساختمان پزشکان ۴۳ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__doctors-building-43__82026beb.html",
+      "savedMarkdownPath": "pages/markdown/projects__doctors-building-43__82026beb.md"
+    },
+    {
+      "id": "projects__duplexing-two-units__0db46edc",
+      "url": "https://azhman.company/projects/duplexing-two-units",
+      "path": "/projects/duplexing-two-units",
+      "title": "پروژه دوبلکس کردن دو واحد آقای دکتر الیاسی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__duplexing-two-units__0db46edc.html",
+      "savedMarkdownPath": "pages/markdown/projects__duplexing-two-units__0db46edc.md"
+    },
+    {
+      "id": "projects__emamieh-58__9a0790c6",
+      "url": "https://azhman.company/projects/emamieh-58",
+      "path": "/projects/emamieh-58",
+      "title": "آژمان۲: پروژه ساختمانی ۲ واحدی و سه سقف آقای ثناگو — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__emamieh-58__9a0790c6.html",
+      "savedMarkdownPath": "pages/markdown/projects__emamieh-58__9a0790c6.md"
+    },
+    {
+      "id": "projects__european-modern-kitchen-renovation__ddd0602c",
+      "url": "https://azhman.company/projects/european-modern-kitchen-renovation",
+      "path": "/projects/european-modern-kitchen-renovation",
+      "title": "پروژه بازسازی آشپزخانه با سبک مدرن اروپایی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__european-modern-kitchen-renovation__ddd0602c.html",
+      "savedMarkdownPath": "pages/markdown/projects__european-modern-kitchen-renovation__ddd0602c.md"
+    },
+    {
+      "id": "projects__exhibition-office-behta-tahvieh__1c75054e",
+      "url": "https://azhman.company/projects/exhibition-office-behta-tahvieh",
+      "path": "/projects/exhibition-office-behta-tahvieh",
+      "title": "دفتر نمایشگاهی شرکت بهتا تهویه — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__exhibition-office-behta-tahvieh__1c75054e.html",
+      "savedMarkdownPath": "pages/markdown/projects__exhibition-office-behta-tahvieh__1c75054e.md"
+    },
+    {
+      "id": "projects__farab-workshop-equipment-shed__353b504a",
+      "url": "https://azhman.company/projects/farab-workshop-equipment-shed",
+      "path": "/projects/farab-workshop-equipment-shed",
+      "title": "پروژه اجرای سوله‌های تجهیز کارگاه شرکت فراب (خط ۲ قطار شهری مشهد) — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__farab-workshop-equipment-shed__353b504a.html",
+      "savedMarkdownPath": "pages/markdown/projects__farab-workshop-equipment-shed__353b504a.md"
+    },
+    {
+      "id": "projects__haj-hassan-shandiz-restaurant-parking__a1ca61e3",
+      "url": "https://azhman.company/projects/haj-hassan-shandiz-restaurant-parking",
+      "path": "/projects/haj-hassan-shandiz-restaurant-parking",
+      "title": "پارکینگ رستوران حاج حسن شاندیز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__haj-hassan-shandiz-restaurant-parking__a1ca61e3.html",
+      "savedMarkdownPath": "pages/markdown/projects__haj-hassan-shandiz-restaurant-parking__a1ca61e3.md"
+    },
+    {
+      "id": "projects__luxury-bathroom-renovation__717ab611",
+      "url": "https://azhman.company/projects/luxury-bathroom-renovation",
+      "path": "/projects/luxury-bathroom-renovation",
+      "title": "پروژه بازسازی سرویس بهداشتی و حمام لوکس — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__luxury-bathroom-renovation__717ab611.html",
+      "savedMarkdownPath": "pages/markdown/projects__luxury-bathroom-renovation__717ab611.md"
+    },
+    {
+      "id": "projects__minimal-tv-wall-design__dd167bf9",
+      "url": "https://azhman.company/projects/minimal-tv-wall-design",
+      "path": "/projects/minimal-tv-wall-design",
+      "title": "پروژه طراحی دیوار تلویزیون با سبک مینیمال — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__minimal-tv-wall-design__dd167bf9.html",
+      "savedMarkdownPath": "pages/markdown/projects__minimal-tv-wall-design__dd167bf9.md"
+    },
+    {
+      "id": "projects__modern-living-room-design__74adc295",
+      "url": "https://azhman.company/projects/modern-living-room-design",
+      "path": "/projects/modern-living-room-design",
+      "title": "پروژه طراحی اتاق نشیمن (پذیرایی) مدرن آژمان — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__modern-living-room-design__74adc295.html",
+      "savedMarkdownPath": "pages/markdown/projects__modern-living-room-design__74adc295.md"
+    },
+    {
+      "id": "projects__modern-minimalist-closet-design__8f17a5eb",
+      "url": "https://azhman.company/projects/modern-minimalist-closet-design",
+      "path": "/projects/modern-minimalist-closet-design",
+      "title": "پروژه طراحی کلوزت روم مدرن و مینیمال — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__modern-minimalist-closet-design__8f17a5eb.html",
+      "savedMarkdownPath": "pages/markdown/projects__modern-minimalist-closet-design__8f17a5eb.md"
+    },
+    {
+      "id": "projects__mohirian__e1466913",
+      "url": "https://azhman.company/projects/mohirian",
+      "path": "/projects/mohirian",
+      "title": "پروژه باغ ویلای آقای محیطیان — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__mohirian__e1466913.html",
+      "savedMarkdownPath": "pages/markdown/projects__mohirian__e1466913.md"
+    },
+    {
+      "id": "projects__mr-javadani-villa-garden__a378d0f8",
+      "url": "https://azhman.company/projects/mr-javadani-villa-garden",
+      "path": "/projects/mr-javadani-villa-garden",
+      "title": "باغ ویلای آقای جاودانی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__mr-javadani-villa-garden__a378d0f8.html",
+      "savedMarkdownPath": "pages/markdown/projects__mr-javadani-villa-garden__a378d0f8.md"
+    },
+    {
+      "id": "projects__qods-hotel-mashhad-project__fa6f5941",
+      "url": "https://azhman.company/projects/qods-hotel-mashhad-project",
+      "path": "/projects/qods-hotel-mashhad-project",
+      "title": "پروژه هتل قدس مشهد — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__qods-hotel-mashhad-project__fa6f5941.html",
+      "savedMarkdownPath": "pages/markdown/projects__qods-hotel-mashhad-project__fa6f5941.md"
+    },
+    {
+      "id": "projects__reconstruction-of-mirage-bazaar__629b967c",
+      "url": "https://azhman.company/projects/reconstruction-of-mirage-bazaar",
+      "path": "/projects/reconstruction-of-mirage-bazaar",
+      "title": "پروژه غیرساختمانی بازسازی بازارچه سراب — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__reconstruction-of-mirage-bazaar__629b967c.html",
+      "savedMarkdownPath": "pages/markdown/projects__reconstruction-of-mirage-bazaar__629b967c.md"
+    },
+    {
+      "id": "projects__renovation-of-haj-hassan-shandiz-restaurant__1150aebd",
+      "url": "https://azhman.company/projects/renovation-of-haj-hassan-shandiz-restaurant",
+      "path": "/projects/renovation-of-haj-hassan-shandiz-restaurant",
+      "title": "بازسازی و تغییر دکوراسیون دفتر اداری رستوران حاج حسن شاندیز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__renovation-of-haj-hassan-shandiz-restaurant__1150aebd.html",
+      "savedMarkdownPath": "pages/markdown/projects__renovation-of-haj-hassan-shandiz-restaurant__1150aebd.md"
+    },
+    {
+      "id": "projects__shahed-corner-building-41__f5017fe6",
+      "url": "https://azhman.company/projects/shahed-corner-building-41",
+      "path": "/projects/shahed-corner-building-41",
+      "title": "ساختمان ۴ واحدی نبش شاهد ۴۱ — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__shahed-corner-building-41__f5017fe6.html",
+      "savedMarkdownPath": "pages/markdown/projects__shahed-corner-building-41__f5017fe6.md"
+    },
+    {
+      "id": "projects__shaurije-dam__481b2127",
+      "url": "https://azhman.company/projects/shaurije-dam",
+      "path": "/projects/shaurije-dam",
+      "title": "اجرای تاج تونل خروجی سد شوریجه واقع در شهرستان سرخس — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__shaurije-dam__481b2127.html",
+      "savedMarkdownPath": "pages/markdown/projects__shaurije-dam__481b2127.md"
+    },
+    {
+      "id": "projects__the-entrance-of-haj-hassan-shandiz-restaurant__77758400",
+      "url": "https://azhman.company/projects/the-entrance-of-haj-hassan-shandiz-restaurant",
+      "path": "/projects/the-entrance-of-haj-hassan-shandiz-restaurant",
+      "title": "پروژه بازسازی کامل ورودی رستوران حاج حسن شاندیز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__the-entrance-of-haj-hassan-shandiz-restaurant__77758400.html",
+      "savedMarkdownPath": "pages/markdown/projects__the-entrance-of-haj-hassan-shandiz-restaurant__77758400.md"
+    },
+    {
+      "id": "projects__urban-element-of-mashhad__6a1c35a9",
+      "url": "https://azhman.company/projects/urban-element-of-mashhad",
+      "path": "/projects/urban-element-of-mashhad",
+      "title": "پروژه المان شهری شهرداری مشهد – میدان جانباز — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__urban-element-of-mashhad__6a1c35a9.html",
+      "savedMarkdownPath": "pages/markdown/projects__urban-element-of-mashhad__6a1c35a9.md"
+    },
+    {
+      "id": "projects__yas-6__f3b7ae7e",
+      "url": "https://azhman.company/projects/yas-6",
+      "path": "/projects/yas-6",
+      "title": "ساختمان مسکونی به مالکیت آقای مظفریان — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__yas-6__f3b7ae7e.html",
+      "savedMarkdownPath": "pages/markdown/projects__yas-6__f3b7ae7e.md"
+    },
+    {
+      "id": "projects__yas-7__a5b1d1af",
+      "url": "https://azhman.company/projects/yas-7",
+      "path": "/projects/yas-7",
+      "title": "ساختمان مسکونی به مالکیت آقای سیاحی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__yas-7__a5b1d1af.html",
+      "savedMarkdownPath": "pages/markdown/projects__yas-7__a5b1d1af.md"
+    },
+    {
+      "id": "projects__yas-8__2a42a50b",
+      "url": "https://azhman.company/projects/yas-8",
+      "path": "/projects/yas-8",
+      "title": "ساختمان مسکونی به مالکیت آقای لشگری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__yas-8__2a42a50b.html",
+      "savedMarkdownPath": "pages/markdown/projects__yas-8__2a42a50b.md"
+    },
+    {
+      "id": "projects__yas-9__ae965600",
+      "url": "https://azhman.company/projects/yas-9",
+      "path": "/projects/yas-9",
+      "title": "ساختمان مسکونی به مالکیت آقای یزدانی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/projects__yas-9__ae965600.html",
+      "savedMarkdownPath": "pages/markdown/projects__yas-9__ae965600.md"
+    },
+    {
+      "id": "providing-engineering-tools__2cfa3b0b",
+      "url": "https://azhman.company/providing-engineering-tools",
+      "path": "/providing-engineering-tools",
+      "title": "تأمین ابزارآلات مهندسی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/providing-engineering-tools__2cfa3b0b.html",
+      "savedMarkdownPath": "pages/markdown/providing-engineering-tools__2cfa3b0b.md"
+    },
+    {
+      "id": "providing-mechanical-and-electrical-equipment__40278546",
+      "url": "https://azhman.company/providing-mechanical-and-electrical-equipment",
+      "path": "/providing-mechanical-and-electrical-equipment",
+      "title": "تأمین تجهیزات مکانیکی و الکتریکی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/providing-mechanical-and-electrical-equipment__40278546.html",
+      "savedMarkdownPath": "pages/markdown/providing-mechanical-and-electrical-equipment__40278546.md"
+    },
+    {
+      "id": "providing-post-construction-services__f4c9d29d",
+      "url": "https://azhman.company/providing-post-construction-services",
+      "path": "/providing-post-construction-services",
+      "title": "ارائه خدمات پس از ساخت — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/providing-post-construction-services__f4c9d29d.html",
+      "savedMarkdownPath": "pages/markdown/providing-post-construction-services__f4c9d29d.md"
+    },
+    {
+      "id": "provision-of-materials-and-equipment__2ca8e7bb",
+      "url": "https://azhman.company/provision-of-materials-and-equipment",
+      "path": "/provision-of-materials-and-equipment",
+      "title": "تأمین مصالح و تجهیزات — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/provision-of-materials-and-equipment__2ca8e7bb.html",
+      "savedMarkdownPath": "pages/markdown/provision-of-materials-and-equipment__2ca8e7bb.md"
+    },
+    {
+      "id": "provision-of-new-building-materials__254c9018",
+      "url": "https://azhman.company/provision-of-new-building-materials",
+      "path": "/provision-of-new-building-materials",
+      "title": "تأمین مصالح نوین ساختمانی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/provision-of-new-building-materials__254c9018.html",
+      "savedMarkdownPath": "pages/markdown/provision-of-new-building-materials__254c9018.md"
+    },
+    {
+      "id": "purchase-and-supply-of-cement-bricks-and-concrete__228f4fa7",
+      "url": "https://azhman.company/purchase-and-supply-of-cement-bricks-and-concrete",
+      "path": "/purchase-and-supply-of-cement-bricks-and-concrete",
+      "title": "خرید و تأمین سیمان، آجر، و بتن — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/purchase-and-supply-of-cement-bricks-and-concrete__228f4fa7.html",
+      "savedMarkdownPath": "pages/markdown/purchase-and-supply-of-cement-bricks-and-concrete__228f4fa7.md"
+    },
+    {
+      "id": "quality-control-and-monitoring__6bafc679",
+      "url": "https://azhman.company/quality-control-and-monitoring",
+      "path": "/quality-control-and-monitoring",
+      "title": "کنترل کیفیت و نظارت — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/quality-control-and-monitoring__6bafc679.html",
+      "savedMarkdownPath": "pages/markdown/quality-control-and-monitoring__6bafc679.md"
+    },
+    {
+      "id": "quality-control-of-materials-and-construction-process__108c26f4",
+      "url": "https://azhman.company/quality-control-of-materials-and-construction-process",
+      "path": "/quality-control-of-materials-and-construction-process",
+      "title": "کنترل کیفی مصالح و فرآیند ساخت — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/quality-control-of-materials-and-construction-process__108c26f4.html",
+      "savedMarkdownPath": "pages/markdown/quality-control-of-materials-and-construction-process__108c26f4.md"
+    },
+    {
+      "id": "reconstruction-and-implementation__9f4e2608",
+      "url": "https://azhman.company/reconstruction-and-implementation",
+      "path": "/reconstruction-and-implementation",
+      "title": "ساخت و اجرا — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/reconstruction-and-implementation__9f4e2608.html",
+      "savedMarkdownPath": "pages/markdown/reconstruction-and-implementation__9f4e2608.md"
+    },
+    {
+      "id": "reconstruction-and-renovation__1408dde9",
+      "url": "https://azhman.company/reconstruction-and-renovation",
+      "path": "/reconstruction-and-renovation",
+      "title": "بازسازی و نوسازی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/reconstruction-and-renovation__1408dde9.html",
+      "savedMarkdownPath": "pages/markdown/reconstruction-and-renovation__1408dde9.md"
+    },
+    {
+      "id": "reinforcement-of-structures__a46b2d7a",
+      "url": "https://azhman.company/reinforcement-of-structures",
+      "path": "/reinforcement-of-structures",
+      "title": "مقاوم‌سازی سازه‌ها — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/reinforcement-of-structures__a46b2d7a.html",
+      "savedMarkdownPath": "pages/markdown/reinforcement-of-structures__a46b2d7a.md"
+    },
+    {
+      "id": "renovation-of-old-buildings__2af38d4a",
+      "url": "https://azhman.company/renovation-of-old-buildings",
+      "path": "/renovation-of-old-buildings",
+      "title": "نوسازی ساختمان‌های قدیمی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/renovation-of-old-buildings__2af38d4a.html",
+      "savedMarkdownPath": "pages/markdown/renovation-of-old-buildings__2af38d4a.md"
+    },
+    {
+      "id": "services__e5157a96",
+      "url": "https://azhman.company/services",
+      "path": "/services",
+      "title": "خدمات — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/services__e5157a96.html",
+      "savedMarkdownPath": "pages/markdown/services__e5157a96.md"
+    },
+    {
+      "id": "settlement-and-urban-development-projects__0594fe95",
+      "url": "https://azhman.company/settlement-and-urban-development-projects",
+      "path": "/settlement-and-urban-development-projects",
+      "title": "پروژه‌های شهرک‌سازی و توسعه شهری — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/settlement-and-urban-development-projects__0594fe95.html",
+      "savedMarkdownPath": "pages/markdown/settlement-and-urban-development-projects__0594fe95.md"
+    },
+    {
+      "id": "soil-and-concrete-mechanics-tests__3fdaf285",
+      "url": "https://azhman.company/soil-and-concrete-mechanics-tests",
+      "path": "/soil-and-concrete-mechanics-tests",
+      "title": "آزمایش‌های مکانیک خاک و بتن — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/soil-and-concrete-mechanics-tests__3fdaf285.html",
+      "savedMarkdownPath": "pages/markdown/soil-and-concrete-mechanics-tests__3fdaf285.md"
+    },
+    {
+      "id": "structure-and-facade-repairs__c49a0ccf",
+      "url": "https://azhman.company/structure-and-facade-repairs",
+      "path": "/structure-and-facade-repairs",
+      "title": "تعمیرات تخصصی سازه و نما — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/structure-and-facade-repairs__c49a0ccf.html",
+      "savedMarkdownPath": "pages/markdown/structure-and-facade-repairs__c49a0ccf.md"
+    },
+    {
+      "id": "supervision-of-executive-plans__c4b1c461",
+      "url": "https://azhman.company/supervision-of-executive-plans",
+      "path": "/supervision-of-executive-plans",
+      "title": "نظارت بر نقشه‌های اجرایی — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/supervision-of-executive-plans__c4b1c461.html",
+      "savedMarkdownPath": "pages/markdown/supervision-of-executive-plans__c4b1c461.md"
+    },
+    {
+      "id": "tenders-and-contracts__d5f93d1a",
+      "url": "https://azhman.company/tenders-and-contracts",
+      "path": "/tenders-and-contracts",
+      "title": "مناقصات و قراردادها — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/tenders-and-contracts__d5f93d1a.html",
+      "savedMarkdownPath": "pages/markdown/tenders-and-contracts__d5f93d1a.md"
+    },
+    {
+      "id": "use-of-environmentally-friendly-materials__68906764",
+      "url": "https://azhman.company/use-of-environmentally-friendly-materials",
+      "path": "/use-of-environmentally-friendly-materials",
+      "title": "استفاده از مصالح سازگار با محیط‌زیست — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/use-of-environmentally-friendly-materials__68906764.html",
+      "savedMarkdownPath": "pages/markdown/use-of-environmentally-friendly-materials__68906764.md"
+    },
+    {
+      "id": "virtual-reality-building-presentation__09c68b1b",
+      "url": "https://azhman.company/virtual-reality-building-presentation",
+      "path": "/virtual-reality-building-presentation",
+      "title": "نمایش واقعیت مجازی ساختمان | تجربه بی‌نظیر پیش از ساخت — هلدینگ ساختمانی آژمان",
+      "lang": "fa-IR",
+      "savedHtmlPath": "pages/html/virtual-reality-building-presentation__09c68b1b.html",
+      "savedMarkdownPath": "pages/markdown/virtual-reality-building-presentation__09c68b1b.md"
+    }
+  ],
+  "brokenLinks": [
+    {
+      "from": "https://azhman.company/implementation-of-heating-and-cooling-systems",
+      "to": "https://azhman.company/implementation-of-heating-and-cooling-systems",
+      "reason": "connect ECONNREFUSED 80.249.115.91:443"
+    },
+    {
+      "from": "https://azhman.company/installation-of-engine-room-and-ventilation-systems",
+      "to": "https://azhman.company/installation-of-engine-room-and-ventilation-systems",
+      "reason": "connect ECONNREFUSED 80.249.115.91:443"
+    },
+    {
+      "from": "https://azhman.company/services/build-and-run",
+      "to": "https://azhman.company/services/build-and-run",
+      "reason": "HTTP 404"
+    },
+    {
+      "from": "https://azhman.company/services/reconstruction-and-renovation/renovation-of-old-buildings",
+      "to": "https://azhman.company/services/reconstruction-and-renovation/renovation-of-old-buildings",
+      "reason": "HTTP 404"
+    },
+    {
+      "from": "https://azhman.company/reconstruction-and-renovation/renovation-of-old-buildings",
+      "to": "https://azhman.company/reconstruction-and-renovation/renovation-of-old-buildings",
+      "reason": "HTTP 404"
+    }
+  ],
+  "assetDownload": {
+    "enabled": true,
+    "cssDiscovered": 58,
+    "cssDownloaded": 58,
+    "assetDiscovered": 333,
+    "assetDownloaded": 327,
+    "failed": 6,
+    "assetsManifestPath": "assets-manifest.json",
+    "stylesheetMapPath": "stylesheet-map.json"
+  }
+}

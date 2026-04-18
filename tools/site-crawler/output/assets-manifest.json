@@ -1,0 +1,2749 @@
+{
+  "generatedAt": "2026-04-18T04:58:45.536Z",
+  "total": 391,
+  "items": [
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/style.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/style.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/themes/hello-elementor/assets/css/reset.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/themes/hello-elementor/assets/css/reset.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/themes/hello-elementor/assets/css/theme.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/themes/hello-elementor/assets/css/theme.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/themes/hello-elementor/assets/css/header-footer.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/themes/hello-elementor/assets/css/header-footer.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/frontend.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/frontend.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-3435.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-3435.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-social-icons-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-social-icons-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-icon-box-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-icon-box-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/fontface.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/fontface.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-slides-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-slides-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-nested-tabs-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-nested-tabs-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-loop-common-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-loop-common-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-loop-grid-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-loop-grid-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-testimonial-carousel-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-testimonial-carousel-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-reviews-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-reviews-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-carousel-module-base-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-carousel-module-base-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-image-carousel-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-image-carousel-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/css/widget-progress-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/css/widget-progress-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-2227.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-2227.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-3451.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-3451.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-3453.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-3453.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/assets/css/persian-datepicker.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/assets/css/persian-datepicker.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/themes/hello-theme-child-master/style.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/themes/hello-theme-child-master/style.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-post-info-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-post-info-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/persian-gravity-forms/assets/js/datepicker/persian-datepicker.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/persian-gravity-forms/assets/js/datepicker/persian-datepicker.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/persian-gravity-forms/assets/js/datepicker/persian-datepicker-default.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/persian-gravity-forms/assets/js/datepicker/persian-datepicker-default.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-includes/css/dist/block-library/style-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-includes/css/dist/block-library/style-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-2284.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-2284.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-4508.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-4508.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-table-of-contents-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-table-of-contents-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-post-navigation-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-post-navigation-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-posts-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-posts-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-author-box-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-author-box-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-4136.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-4136.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-4840.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-4840.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-form-rtl.min.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/assets/css/widget-form-rtl.min.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-2283.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-2283.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-2474.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-2474.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-2627.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-2627.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-4806.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-4806.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-3760.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-3760.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/elementor/css/post-5252.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/elementor/css/post-5252.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/font.css",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/font.css",
+      "kind": "css",
+      "status": "downloaded",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/fonts/megatheme.ttf?4zxyox",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/fonts/megatheme__q_72297750.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-UltraLight.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-UltraLight.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-UltraLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-UltraLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Light.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Light.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/fonts/megatheme.eot?4zxyox",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/fonts/megatheme__q_72297750.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Light.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Light.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Medium.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Medium.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-DemiBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-DemiBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Medium.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Medium.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-DemiBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-DemiBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-ExtraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-ExtraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-ExtraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-ExtraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Black.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Black.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Thin.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Thin.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Black.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Black.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-ExtraBlack.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-ExtraBlack.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-ExtraBlack.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-ExtraBlack.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Bold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Bold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/IRANYekanXVF.ttf",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/IRANYekanXVF.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Bold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Bold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Heavy.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Heavy.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Heavy.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Heavy.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Regular.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Regular.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Regular.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Regular.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/14088.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/14088.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/156.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/156.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/sec_bg1.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/sec_bg1.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/45081.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/45081.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/15445.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/15445.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/sec_bg3.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/sec_bg3.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/cropped-photo-young-woman-designer-chatting-by-phone.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/cropped-photo-young-woman-designer-chatting-by-phone.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff2?o6rzdt",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/fonts/gform-icons-theme__q_b907d488.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/fonts/gform-icons-theme.ttf?o6rzdt",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/fonts/gform-icons-theme__q_b907d488.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff?o6rzdt",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/fonts/gform-icons-theme__q_b907d488.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/images/gf-creditcards.svg",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/images/gf-creditcards.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/fonts/megatheme.woff?4zxyox",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/fonts/megatheme__q_72297750.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/fonts/gform-icons-theme.svg?o6rzdt",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/fonts/gform-icons-theme__q_b907d488.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/legacy/css/chosen-sprite@2x.png",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/legacy/css/chosen-sprite_2x.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/images/list-add.svg",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/images/list-add.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/images/theme/down-arrow.svg",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/images/theme/down-arrow.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/gravityforms/images/list-remove.svg",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/gravityforms/images/list-remove.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/portrait-engineers-work-hours-job-site.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/portrait-engineers-work-hours-job-site.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/_D8_AF_D8_B1_D8_A8_D8_A7_D8_B1_D9_87-_D9_85_D8_A7.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%85%D8%A7.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/_D8_AA_D9_85_D8_A7_D8_B3-_D8_A8_D8_A7-_D9_85_D8_A7.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Thin.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Thin.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2025/01/construction-plans-with-yellow-helmet-drawing-tools-bluep.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2025/01/construction-plans-with-yellow-helmet-drawing-tools-bluep.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Thin.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Thin.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Thin.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Thin.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2025/01/14089.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2025/01/14089.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Thin.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Thin.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLight.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLight.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLight.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLight.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Light.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Light.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLight.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLight.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Light.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Light.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Light.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Light.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Light.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Light.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Medium.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Medium.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Medium.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Medium.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Medium.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Medium.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2025/01/2151317287.avif",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2025/01/2151317287.avif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/avif"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Medium.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Medium.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBold.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBold.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBold.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBold.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBold.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBold.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/fonts/megatheme.svg?4zxyox",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/icon/fonts/megatheme__q_72297750.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Black.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Black.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Black.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Black.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Black.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Black.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Black.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Black.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Heavy.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Heavy.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Heavy.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Heavy.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Heavy.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Heavy.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Heavy.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Heavy.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavy.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavy.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavy.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavy.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavy.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavy.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/uploads/2024/12/MorabbaVF.ttf",
+      "localPath": "assets-mirror/azhman.company/wp-content/uploads/2024/12/MorabbaVF.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Regular.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Regular.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavy.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavy.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Bold.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Bold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Bold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Bold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Bold.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Bold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Bold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Bold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Regular.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Regular.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Regular.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Regular.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Regular.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Regular.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ThinItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ThinItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ThinItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ThinItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLightItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLightItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ThinItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ThinItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ThinItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ThinItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLightItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLightItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLightItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLightItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLightItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraLightItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-LightItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-LightItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-LightItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-LightItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-LightItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-LightItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-LightItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-LightItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-MediumItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-MediumItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-MediumItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-MediumItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-MediumItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-MediumItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-MediumItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-MediumItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBoldItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBoldItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBoldItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBoldItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBoldItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SemiBoldItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBoldItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBoldItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBoldItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBoldItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBoldItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-ExtraBoldItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBoldItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBoldItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBoldItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBoldItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBoldItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-UltraBoldItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BlackItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BlackItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-HeavyItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-HeavyItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BlackItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BlackItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-HeavyItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-HeavyItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BlackItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BlackItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BlackItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BlackItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-HeavyItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-HeavyItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-HeavyItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-HeavyItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavyItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavyItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavyItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavyItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavyItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavyItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavyItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-SuperHeavyItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BoldItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BoldItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BoldItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BoldItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BoldItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-BoldItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Italic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Italic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Italic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Italic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Italic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Italic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedCondensedThin.eot?",
+      "localPath": "",
+      "kind": "asset",
+      "status": "failed",
+      "contentType": "text/html",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedCondensedThin.eot",
+      "localPath": "",
+      "kind": "asset",
+      "status": "failed",
+      "contentType": "text/html",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Italic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Italic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedCondensedThin.woff2",
+      "localPath": "",
+      "kind": "asset",
+      "status": "failed",
+      "contentType": "text/html",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedCondensedThin.woff",
+      "localPath": "",
+      "kind": "asset",
+      "status": "failed",
+      "contentType": "text/html",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLight.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLight.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLight.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLight.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLight.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLight.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLight.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLight.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLight.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLight.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLight.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLight.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMedium.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMedium.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMedium.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMedium.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMedium.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMedium.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBold.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMedium.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMedium.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBold.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBold.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBold.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBold.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBold.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlack.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlack.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlack.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlack.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavy.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavy.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavy.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavy.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavy.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavy.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavy.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavy.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlack.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlack.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlack.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlack.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavy.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavy.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavy.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavy.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavy.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavy.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Condensed.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Condensed.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBold.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavy.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavy.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBold.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBold.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Condensed.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Condensed.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Condensed.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Condensed.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Condensed.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-Condensed.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedThinItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedThinItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedThinItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedThinItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLightItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLightItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedThinItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedThinItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedThinItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedThinItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLightItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLightItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLightItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLightItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLightItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraLightItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLightItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLightItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLightItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLightItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLightItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLightItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMediumItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMediumItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLightItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedLightItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMediumItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMediumItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMediumItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMediumItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMediumItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedMediumItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBoldItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBoldItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBoldItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBoldItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBoldItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSemiBoldItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBoldItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBoldItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBoldItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBoldItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBoldItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBoldItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedExtraBoldItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBoldItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBoldItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBoldItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBoldItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedUltraBoldItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlackItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlackItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlackItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlackItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlackItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlackItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlackItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBlackItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavyItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavyItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavyItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavyItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavyItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavyItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavyItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedHeavyItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavyItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavyItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavyItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavyItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavyItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavyItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavyItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedSuperHeavyItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBoldItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBoldItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBoldItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBoldItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBoldItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBoldItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedBoldItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedItalic.eot?",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedItalic.eot",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedItalic.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedItalic.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedItalic.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedItalic.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/anjoman/Anjoman-CondensedItalic.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Black.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Black.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Bold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Bold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-ExtraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-ExtraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-ExtraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-ExtraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Black.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Black.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Bold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Bold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-ExtraLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-ExtraLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-ExtraLight.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-ExtraLight.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Medium.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Medium.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Medium.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Medium.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Normal.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Normal.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Heavy.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Heavy.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Heavy.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Heavy.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Light.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Light.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Normal.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Normal.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Regular.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Regular.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Regular.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Regular.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-UltraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-UltraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-UltraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-UltraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Light.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Light.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Thin.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Thin.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-SemiBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-SemiBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-SemiBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-SemiBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Thin.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/aria/AriaWeb-Thin.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Hairline.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Hairline.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Thin.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Thin.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Hairline.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Hairline.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Thin.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Thin.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-UltraLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-UltraLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-UltraLight.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-UltraLight.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Light.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Light.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Light.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Light.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Medium.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Medium.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Medium.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Medium.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-DemiBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-DemiBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-DemiBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-DemiBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-ExtraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-ExtraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Black.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Black.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-ExtraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-ExtraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Black.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Black.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Bold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Bold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Bold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Bold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Regular.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Regular.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Regular.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/dana/Dana-Regular.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Thin.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Thin.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Thin.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Thin.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-UltraLight.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-UltraLight.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-UltraLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-UltraLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Light.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Light.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Light.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Light.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Medium.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Medium.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-DemiBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-DemiBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-DemiBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-DemiBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Medium.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Medium.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-ExtraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-ExtraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Black.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Black.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-ExtraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-ExtraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Black.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Black.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Bold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Bold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Bold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Bold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Regular.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Regular.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Regular.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iransansx/IRANSansX-Regular.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Thin.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Thin.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Thin.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Thin.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-ExtraLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-ExtraLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-ExtraLight.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-ExtraLight.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Light.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Light.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Light.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Light.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Medium.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Medium.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Semibold.woff2",
+      "localPath": "",
+      "kind": "asset",
+      "status": "failed",
+      "contentType": "text/html",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Semibold.woff",
+      "localPath": "",
+      "kind": "asset",
+      "status": "failed",
+      "contentType": "text/html",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Medium.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Medium.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-ExtraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-ExtraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Black.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Black.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Black.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Black.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Bold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Bold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Regular.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Regular.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Bold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Bold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-ExtraBold.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-ExtraBold.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Regular.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/kalameh/KalamehWeb-Regular.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Thin.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Thin.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-ExtraLight.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-ExtraLight.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Light.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Light.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Regular.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Regular.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Medium.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Medium.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-SemiBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-SemiBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Bold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Bold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-ExtraBold.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-ExtraBold.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Black.woff2",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/vazirmatn/Vazirmatn-Black.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Thin.woff",
+      "localPath": "assets-mirror/azhman.company/wp-content/plugins/elementor-pro/megatheme/includes/fonts/iranyekanx/IRANYekanX-Thin.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff"
+    }
+  ]
+}
